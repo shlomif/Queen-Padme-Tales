@@ -42,7 +42,9 @@ format only to be rejected, rinse and repeat.
 
 [
 
-This text is Copyright by Shlomi Fish, 2020 and is
+Emblem: <img src="images/evilphish-svg--facing-right.min.svg.png" alt="Shlomi Fish’s EvilPHish Emblem" />
+
+This text is Copyright by <a href="https://www.shlomifish.org/">Shlomi Fish</a> , 2020 and is
 made available under the <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported Licence (CC-by)</a>
 (or at your option - any later version).
 
@@ -313,6 +315,18 @@ Fade to black.
 Message on the screen: "To be continued… Be a hero."
 
 ]
+
+</s>
+
+<s id="ethical-hacking-version" title="Ethical Hacking Version">
+
+<s id="ethical--peaceful-resolution" title="Peaceful Resolution">
+
+[ The filming set. ]
+
+
+
+</s>
 
 </s>
 
