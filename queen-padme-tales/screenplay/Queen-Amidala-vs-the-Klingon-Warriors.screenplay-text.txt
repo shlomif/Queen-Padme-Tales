@@ -57,6 +57,7 @@ made available under the <a href="http://creativecommons.org/licenses/by/4.0/">C
 [
 
 The <b>Dedication</b>:
+<img src="images/Christina_Grimmie_in_November_2014--resized.webp" alt="Photo of Christina Grimmie" />
 
 This story is dedicated to the memory of <a href="https://en.wikipedia.org/wiki/Christina_Grimmie">Christina Grimmie (1994-2016)</a>,
 a remarkable singer and youtuber, who was killed at age 22 by a fan who was
@@ -100,7 +101,7 @@ when writing <a href="https://en.wikipedia.org/wiki/Python_%28programming_langua
 
 (Also see <a href="https://www.poetryfoundation.org/poems/46473/if---">If—</a> by Rudyard
 Kipling which has a similar message, and is the most favourite poem among
-British citizens, a favourite among Israelis, was Ayn Rand’ favourite, and mine.)
+British citizens, a favourite among Israelis, was Ayn Rand’s favourite, and mine.)
 
 ]
 

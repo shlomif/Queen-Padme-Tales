@@ -11,6 +11,7 @@ my $gfx = 'who-is-qoheleth.svg.png';
 
 my @images = (
     $gfx,
+    'Christina_Grimmie_in_November_2014--resized.webp',
     'bad-blood189.webp',
     'evilphish-svg--facing-right.min.svg.png',
     'tacos6306095903_a5c92746ba_o--tacos-reduced-by-jeffreyw--small-400px.webp',
