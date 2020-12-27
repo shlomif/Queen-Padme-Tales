@@ -330,7 +330,7 @@ Message on the screen: "To be continued… Be a hero."
 Natalie: everyone in position…and - action!
 
 [ Worf and Gowron growl. The two closest Jedi knights quickly pull
-black blasters and aim them at the Klingons; Obi-Wan and Qui-Gon do the same. ]
+two black blasters and aim them at the Klingons; Obi-Wan and Qui-Gon do the same. ]
 
 The Jedi Knights: hands up!
 
@@ -338,6 +338,35 @@ The Jedi Knights: hands up!
 
 Queen Padme: [using her smartphone as a loud speaker.] Dear Klingon sirs…
 what did you intend to do?
+
+Worf: we were hired to kill you and our plan has failed. We thought using
+missiles would be too cowardly.
+
++++: Nevertheless…it is against
+the Klingon ethos to retreat from a battle nonvictorious, so please
+kill us now, and if you wish, torture us.
+
+[ Worf and Gowron close their eyes. Padmé sighs.]
+
+Padmé: OK… let's suppose for the sake of argumentation that my jedi knights
+and I have killed you (or <a href="https://www.shlomifish.org/humour/Selina-Mandrake/">slain</a>
+you), that you have died (or admitted you were wrong) and were reborn.
+Will this be acceptable?
+
+[ Worf and Gowron smile, then laugh, open their eyes and are
+relieved. ]
+
+Gowron: you were a truly worthy opponent your majesty!
+What should we do next?
+
+Padmé: [uses her smartphone. Shows Darth Vader on the screen]
+Hey uncle Vader! Guess what? We found the assassins and they
+have been reborn. I'm going to chat with them and get some
+"intel" out about their clients. But tell aunt Liz to be
+the ceremonial female royal in the jedi tournament instead
+of me.
+
+Vader: sure thing, Padpad! May the force be with you.
 
 </s>
 
