@@ -1,0 +1,81 @@
+<s id="Planting-Trees" lang="en" title="Queen Padmé and Real-Life Friends Celebs Plant Trees in France">
+
+<s id="about" title="About this screenplay">
+
+<s id="objective" title="Objective">
+
+[
+
+An illustrated screenplay crossing <a href="https://en.wikipedia.org/wiki/Star_Wars%3A_Episode_I_%E2%80%93_The_Phantom_Menace">Star Wars Ep. I</a>,
+the <a href="https://buffyfanfiction.fandom.com/wiki/Selinaverse">Selinaverse</a> (itself
+crossing Star Trek TNG/DS9, Buffy, Judaism, Israel, <a href="https://en.wikipedia.org/wiki/Objectivism_(Ayn_Rand)">Objectivism</a>, etc.)
+the real world online/offline life in 2010s/2020s,
+and <a href="https://en.wikipedia.org/wiki/Spaceballs">Spaceballs</a>.
+
+This screenplay <b>is not</b> written in the Hollywood blessed format because
+<a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/hacking-heroism.xhtml">good
+hackers (= resourceful and rule bending heroes)</a>
+which include the talented actors and actresses in this film can
+withstand reading a raw and non-CSS-styled XHTML5 file. That - and hackers like me
+do not have the time to massage a screenplay into Hollywood's whimsical
+format only to be rejected, rinse and repeat.
+
+]
+
+</s>
+
+<s id="license" title="Licence">
+
+[
+
+Emblem: <img src="images/evilphish-svg--facing-right.min.svg.png" alt="Shlomi Fish’s EvilPHish Emblem" />
+
+This text is Copyright by <a href="https://www.shlomifish.org/">Shlomi Fish</a> , 2020 and is
+made available under the <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 Unported Licence (CC-by)</a>
+(or at your option - any later version).
+
+]
+
+</s>
+
+<s id="dedication" title="Dedication">
+
+[
+
+The <b>Dedication</b>:
+
+This story is dedicated to the memory of <a href="https://en.wikipedia.org/wiki/Samantha_Smith">Samantha Smith ( 1972-1985 )</a>,
+who bravely, naïvely, and "crazily" cemented the end of the Cold War as set forth
+by <a href="https://en.wikipedia.org/wiki/Sesame_Street">Sesame Street</a>
+and <a href="https://en.wikipedia.org/wiki/The_Muppet_Show">The Muppet Show</a>
+and materialised Isaiah's <a href="https://he.wikisource.org/wiki/%D7%99%D7%A9%D7%A2%D7%99%D7%94%D7%95_%D7%99%D7%90_%D7%95">over
+2,000 years joke/story/exaggeration/entertainment/exaltation</a>
+(while being female for extra comedy/"seriousness" effect).
+
+]
+
+</s>
+
+</s>
+
+<s id="helping-planet-spaceballs" title="Helping Planet Spaceballs">
+
+[Black screen.
+
+—
+<img src="images/tacos6306095903_a5c92746ba_o--tacos-reduced-by-jeffreyw--small-400px.webp" alt="Tacos with many toppings" />
+
+Initial Credits.
+
+]
+
+[
+
+Queen <a href="https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala">Padmé Amidala of the Naboo</a>
+(Star Wars Ep. 1, played by <a href="https://en.wikipedia.org/wiki/Tiffany_Alvord">Tiffany Alvord</a>)
+
+]
+
+</s>
+
+</s>
