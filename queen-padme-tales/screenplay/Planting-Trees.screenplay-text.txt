@@ -118,9 +118,30 @@ Padmé: Excellent! I'll invite some Internet friends (and foes!).
 
 Fluttershy: Hail me! [she giggles]
 
+</s>
 
+<s id="the-tree-planters-sergeant" title="The Tree Planters Sergeant">
 
+[ "Sarge" is a Spanish-speaking and English-speaking man and speaks in a possibly fake
+Spanish accent. He is the leader/organiser of the Tree Planters celeb troops. ]
 
+Sarge: Hello losers! You are the worst of the worst! The bottom of the barrel!
+The <a href="https://en.wikipedia.org/wiki/Samantha_Smith">face that sank a thousand
+warships</a>. You are geeky, immature, fame-hungry, attention whoring,
+<a href="https://www.shlomifish.org/humour/fortunes/paul-graham.html">amateur</a>,
+parasite, think-you're-so-sexy, "celebrities", "creators",
+<a href="https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html#from-dispeller-to-selina">new age</a>
+philosophers / <a href="https://www.youtube.com/watch?v=gVvMl1Ig9cY">educators / entertainers</a>.
+
++++: I hate your guts. You guys suck! Do you understand that?
+
+The Troop: [in unison] Yes sir, we suck sir!
+
+Sarge: Good! Realising you were an idiot is <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-I-was-an-idiot">an
+easy problem to fix</a>! So you immediately <a href="http://shlomifishswiki.branchable.com/99_Problems/">have one less problem</a>.
+So how many problems you have now:
+
+The Troop: 98 problems, sir!
 
 </s>
 
