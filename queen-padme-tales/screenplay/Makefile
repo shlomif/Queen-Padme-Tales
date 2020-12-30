@@ -1,4 +1,4 @@
-NAME = Planting-Trees Queen-Amidala-vs-the-Klingon-Warriors
+NAME = Queen-Padme-Tales--Planting-Trees Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors
 
 DOCS_BASE = $(NAME)
 
