@@ -1,0 +1,13 @@
+=encoding utf8
+
+=head1 LICENSE
+
+=head2 Text
+
+The series of screenplays “Queen Padmé Tales” are crossover fanfic
+and as far as I am concerned is Copyright by Shlomi Fish, 2020 and
+available under the
+L<http://creativecommons.org/licenses/by/4.0/>, either version 4.0 or at
+your option any later version.
+
+=cut
