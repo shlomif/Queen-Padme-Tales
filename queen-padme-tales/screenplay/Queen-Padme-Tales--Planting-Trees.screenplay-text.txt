@@ -95,8 +95,8 @@ We don't need your stinkin' money!
 
 [ Padmé laughs. <a href="https://www.youtube.com/watch?v=4OcM23Hbs5U">Reference</a>. ]
 
-Skroob: Seriously now Padmé, we need volunteers to plant trees and we can even
-pay them. What will be great is your friends and you setting up an example.
+Skroob: Seriously now, Padmé: we need volunteers to plant trees and we can even
+pay them. What will be appreciated is your friends and you setting up an example.
 
 Padmé: <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-taylor-swift-10">Taytay-style</a>!
 
@@ -106,9 +106,9 @@ that is in your own quirky, geeky, and <a href="https://en.wikipedia.org/wiki/Pe
 +++: Where do you want to start? (Shows a map of Earth's continents.)
 
 Padmé: Hmmm... how about Southern <a href="https://en.wikipedia.org/wiki/Spain">Spain</a>.
-Will you take my word as a non-Espanol?
+Will you take my word as a non-Español?
 
-Skroob: Of course, some of my best friends are not Espanol.
+Skroob: Of course, some of my best friends are not Español.
 
 Padmé: Excellent! I'll invite some Internet friends (and foes!).
 
@@ -122,8 +122,8 @@ Fluttershy: [She gently enters the frame.] Hail me! [She giggles.]
 
 <s id="the-tree-planters-sergeant" title="The Tree Planters Sergeant">
 
-[ "Sarge" is a Spanish-speaking and English-speaking man and speaks in a possibly fake
-Spanish accent. He is the leader/organiser of the Tree Planters celeb troops. ]
+[ "Sarge" is a Spanish-speaking and English-speaking man and speaks in a
+(possibly fake) Spanish accent. He is the leader/organiser of the Tree Planters celeb troops. ]
 
 Sarge: Hello losers! You are the worst of the worst! The bottom of the barrel!
 The <a href="https://en.wikipedia.org/wiki/Samantha_Smith">face that sank a thousand
@@ -147,15 +147,30 @@ Sarge: Great! You may be parasites, but at least you can do arithmetics!
 
 +++: Let's get it straight: while you are volunteers, can leave everytime,
 are dressed in casual clothes, and can and often must <a href="https://en.wikipedia.org/wiki/Superior_orders">refuse superior orders</a>
-and you will be housed in comfortable housing with good privacy,
-you are Soldiers! That means you should aim to not only do
-a good job but an exceptional job! <a href="https://www.joelonsoftware.com/2004/12/06/news-45/">Rosh gadol</a>
-like our Israeli brothers-in-arm would say.
+and you will be housed in comfortable housing with good privacy -
+you are still Soldiers! That means you should aim to not only do
+a good job, but the best job you can! <a href="https://www.joelonsoftware.com/2004/12/06/news-45/">Rosh gadol</a> (= "big-minded")
+like our Israeli brothers-in-arm would say, and which, despite
+common misconception, was also likely implemented in
+<a href="https://www.geekwire.com/2011/top-10-reasons-darth-vader-amazing-project-manager/">Nazi Germany</a> despite their insistence on following
+orders (but often to awful consequences).
 
 +++: That doesn't mean you shouldn't <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/hacking-heroism.xhtml">"hack"</a>. On the contrary:
 know your strengths and weaknesses, ask others for help,
 think outside the box, be resourceful, and aim to be the best
 you can given the time.
+
++++: Note: you have my contact info and you have brought portable
+computers, smartphones, or other devices, to your rooms.
+If you face a dillema on any topic whatsoever (even if not related
+to planting trees) then join a chat room for our troop, or
+even message me in private. ( <a href="https://twitter.com/shlomif/status/1192785494272348162">“He who saves a single soul has saved the world entire”</a>/etc.)
+
++++: We may be losers, but at least we lose spectacularly,
+and might "win" 1 out 5 battles, and do not want our fellow
+losers to lose. This is whether because we made them fail,
+or because we didn't comment on their bad tactic or strategy
+in time (regardless of how silly or wrong we thought it'd be).
 
 </s>
 
