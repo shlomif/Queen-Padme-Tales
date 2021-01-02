@@ -62,8 +62,7 @@ and materialised Isaiah's <a href="https://he.wikisource.org/wiki/%D7%99%D7%A9%D
 
 [Black screen.
 
-—
-<img src="images/tacos6306095903_a5c92746ba_o--tacos-reduced-by-jeffreyw--small-400px.webp" alt="Tacos with many toppings" />
+Logo: <img src="images/tacos6306095903_a5c92746ba_o--tacos-reduced-by-jeffreyw--small-400px.webp" alt="Tacos with many toppings" />
 
 Initial Credits.
 
@@ -75,35 +74,36 @@ Queen <a href="https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala">Padmé Amida
 (Star Wars Ep. 1, played by <a href="https://en.wikipedia.org/wiki/Tiffany_Alvord">Tiffany Alvord</a>)
 sits in her office next to a desktop PC running <a href="https://en.wikipedia.org/wiki/Linux">GNU/Linux</a>.
 She sets up a video conference with <a href="https://spaceballs.fandom.com/wiki/Skroob">President Skroob</a> (sitting)
-and <a href="https://spaceballs.fandom.com/wiki/Dark_Helmet">Dark Helmet</a> (standing)
+and <a href="https://spaceballs.fandom.com/wiki/Dark_Helmet">Dark Helmet</a> (standing).
 
 ]
 
-Dark Helmet: hail skroob!
+Dark Helmet: hail Skroob!
 
 [ The three including Padmé do the hand gesture thing and laugh. ]
 
-Padmé: hey there! What's new?
+Padmé: Hey there! What's new?
 
-Skroob: hello again, Paddy! Our planet has accepted an oxygation offer from the
+Skroob: Hello again, Paddy! Our planet has accepted an oxygation offer from the
 Q continuum, but we wish to stabilise the Oxygen levels so we've initiated
 enforestation efforts around Planet Spaceballs.
 
-Padmé: that's great! Do you need money?
+Padmé: That's great! Do you need money?
 
 Dark Helmet: Money? We got lots of money! We don't need your money!
 We don't need your stinkin' money!
 
-[ Padmé laughs. <a href="https://www.youtube.com/watch?v=4OcM23Hbs5U">reference</a>. ]
+[ Padmé laughs. <a href="https://www.youtube.com/watch?v=4OcM23Hbs5U">Reference</a>. ]
 
-Skroob: seriously now Padmé, we need volunteers to plant trees and we can even
+Skroob: Seriously now Padmé, we need volunteers to plant trees and we can even
 pay them. What will be great is your friends and you setting up an example.
 
 Padmé: <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-taylor-swift-10">Taytay-style</a>!
 
-Dark Helmet: Precisely, but I suggest you do it <a href="https://www.youtube.com/watch?v=FktDDKNrWjk">your way</a>
-in your own quirky, geeky, and <a href="https://en.wikipedia.org/wiki/Perfection#Paradoxes">imperfect</a> way.
-Where do you want to start? (Shows a map of Earth's continents.)
+Dark Helmet: Precisely, but I suggest you do it <a href="https://www.youtube.com/watch?v=FktDDKNrWjk">your way</a>;
+that is in your own quirky, geeky, and <a href="https://en.wikipedia.org/wiki/Perfection#Paradoxes">imperfect</a> way.
+
++++: Where do you want to start? (Shows a map of Earth's continents.)
 
 Padmé: Hmmm... how about Southern <a href="https://en.wikipedia.org/wiki/Spain">Spain</a>.
 Will you take my word as a non-Espanol?
@@ -114,9 +114,9 @@ Padmé: Excellent! I'll invite some Internet friends (and foes!).
 
 +++: <a href="http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/">Hail Fluttershy!</a>
 
-[ Skroob and Dark Helmet say it too. ]
+[ Skroob and Dark Helmet repeat it. ]
 
-Fluttershy: Hail me! [she giggles]
+Fluttershy: [She gently enters the frame.] Hail me! [She giggles.]
 
 </s>
 
@@ -127,7 +127,7 @@ Spanish accent. He is the leader/organiser of the Tree Planters celeb troops. ]
 
 Sarge: Hello losers! You are the worst of the worst! The bottom of the barrel!
 The <a href="https://en.wikipedia.org/wiki/Samantha_Smith">face that sank a thousand
-warships</a>. You are geeky, immature, fame-hungry, attention whoring,
+battleships</a>. You are geeky, immature, fame-hungry, attention whoring,
 <a href="https://www.shlomifish.org/humour/fortunes/paul-graham.html">amateur</a>,
 parasite, think-you're-so-sexy, "celebrities", "creators",
 <a href="https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html#from-dispeller-to-selina">new age</a>
@@ -154,7 +154,7 @@ like our Israeli brothers-in-arm would say.
 
 +++: That doesn't mean you shouldn't <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/hacking-heroism.xhtml">"hack"</a>. On the contrary:
 know your strengths and weaknesses, ask others for help,
-think outside the box, be resourceful, aim to be the best
+think outside the box, be resourceful, and aim to be the best
 you can given the time.
 
 </s>
