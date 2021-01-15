@@ -320,6 +320,34 @@ Message on the screen: "To be continued… Be a hero."
 
 </s>
 
+<s id="unaccepted_version_finale" title="Finale">
+
+[
+
+Note that I am offering up to 3,000 USD for
+a video version of the first <a href="https://www.reddit.com/r/mylittlepony/comments/kaajb9/commission_fluttershy_as_queen_amidala_of_the/">stanza</a>
+which can be either animated or live action, and whose quality I
+am happy with.
+
+]
+
+[
+
+Despite what the screenplay jokes about, Tiffany Alvord is my first choice to play
+the Selinaverse's Padmé, in part because she has much better Internet Read/Write
+web, <a href="http://www.paulgraham.com/web20.html">web 2.0</a> /
+<a href="https://en.wikipedia.org/wiki/Social-media">social media</a>
+presence than Natalie Portman does at present (which she may or may not
+opt to remedy), which is essential for the future screenplays.
+I wouldn't mind George Lucas codirecting or coproducing this series in effect, but
+Portman seems better somehow.
+
+]
+
+</s>
+
+</s>
+
 <s id="ethical-hacking-version" title="Ethical Hacking Version">
 
 <s id="ethical--peaceful-resolution" title="Peaceful Resolution">
@@ -427,32 +455,6 @@ me. I have my own blaster here, but still will need a body guard in
 the unlikely case that there are going to be more assassins.
 
 </s>
-
-</s>
-
-<s id="unaccepted_version_finale" title="Finale">
-
-[
-
-Note that I am offering up to 3,000 USD for
-a video version of the first <a href="https://www.reddit.com/r/mylittlepony/comments/kaajb9/commission_fluttershy_as_queen_amidala_of_the/">stanza</a>
-which can be either animated or live action, and whose quality I
-am happy with.
-
-]
-
-[
-
-Despite what the screenplay jokes about, Tiffany Alvord is my first choice to play
-the Selinaverse's Padmé, in part because she has much better Internet Read/Write
-web, <a href="http://www.paulgraham.com/web20.html">web 2.0</a> /
-<a href="https://en.wikipedia.org/wiki/Social-media">social media</a>
-presence than Natalie Portman does at present (which she may or may not
-opt to remedy), which is essential for the future screenplays.
-I wouldn't mind George Lucas codirecting or coproducing this series in effect, but
-Portman seems better somehow.
-
-]
 
 </s>
 
