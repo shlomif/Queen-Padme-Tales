@@ -1,4 +1,4 @@
-<s id="Planting-Trees" lang="en" title="Queen Padmé and Real-Life Friends Celebs Plant Trees in France">
+<s id="Planting-Trees" lang="en" title="Queen Padmé and Real-Life Friends Celebs Plant Trees in Planet Spaceball">
 
 <s id="about" title="About this screenplay">
 
@@ -122,6 +122,8 @@ Fluttershy: [She gently enters the frame.] Hail me! [She giggles. Inspired by <a
 
 <s id="the-tree-planters-sergeant" title="The Tree Planters Sergeant">
 
+<s id="sarge-demotivating-speech" title="The Demotivating Speech">
+
 [ "Sarge" is a Spanish-speaking and English-speaking man and speaks in a
 (possibly fake) Spanish accent. He is the leader/organiser of the Tree Planters celeb troops. ]
 
@@ -172,6 +174,29 @@ losers to lose. This is whether because we made them fail,
 or because we didn't comment on what we considered their
 bad tactic or strategy in time (regardless of how silly or wrong we thought
 it'd be).
+
+</s>
+
+<s id="shlomif-intro" title="Shlomi Fish Introing Himself">
+
+Sarge: Anyway, enough with putting you down.
+
++++: Mr. Shlomi Fish a.k.a "Rindolf"!
+
+shlomif: At your service, seargent!
+
+Sarge: So… Mr. Fish… is "Shlomi Fish" your real name?
+
+shlomif: As <a href="https://www.shlomifish.org/meta/FAQ/your_name.xhtml">real
+as it gets</a> among Jewish Israelis, sir.
+
+Sarge: Do you expect me to believe you?
+
+shlomif: I do not care what a fellow human believes or
+suspects, sir. Just what they do, or to a lesser
+extent - say.
+
+</s>
 
 </s>
 
