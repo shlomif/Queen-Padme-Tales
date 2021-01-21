@@ -346,8 +346,6 @@ Portman seems better somehow.
 
 </s>
 
-</s>
-
 <s id="ethical-hacking-version" title="Ethical Hacking Version">
 
 <s id="ethical--peaceful-resolution" title="Peaceful Resolution">
@@ -475,6 +473,8 @@ the unlikely case that there are going to be more assassins.
 <a href="https://www.youtube.com/watch?v=QcIy9NiNbmo">Bad Blood videoclip by Taylor Swift</a>
 
 ]
+
+</s>
 
 </s>
 
