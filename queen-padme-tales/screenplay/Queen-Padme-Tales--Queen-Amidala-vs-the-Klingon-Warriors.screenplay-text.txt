@@ -369,7 +369,7 @@ missiles would be too cowardly.
 
 +++: Nevertheless…it is against
 the Klingon ethos to retreat from a battle nonvictorious, so please
-kill us now, and if you wish, torture us.
+kill us now, and if you wish, torture us beforhand.
 
 [ Worf and Gowron close their eyes. Padmé sighs.]
 
@@ -386,9 +386,9 @@ What should we do next?
 
 Padmé: [uses her smartphone. Shows Darth Vader on the screen]
 Hey uncle Vader! Guess what? We found the assassins and they
-have been reborn. I'm going to chat with them and get some
+have been reborn. We're going to chat with them and get some
 "intel" out about their clients. But tell aunt Liz to be
-the ceremonial female royal in the jedi tournament instead
+the ceremonial female royal in the Jedi tournament instead
 of me.
 
 Vader: sure thing, Padpad! May the force be with you.
@@ -410,7 +410,7 @@ Padmé: A power, fame, and money hungry politician, tyrant, and celebrity?
 
 Padmé: OK, seriously now: I had my share of frustrations from
 that page, which is kind of a "can't see the forest from the trees"
-syndrome, and being a royal doesn't help (and I'll gladly give the
+syndrome, and being a royal doesn't help (and I'll gladly pass the
 crown to someone I can trust, but noone volunteered so far.)
 
 +++: Anyway, Obi-Wan and Qui-Gon will escort you to the palace's
@@ -449,9 +449,33 @@ similar to <a href="https://en.wikipedia.org/wiki/Thelma_%26_Louise">Thelma &amp
 and does a U-turn. ]
 
 Padmé: Well, I need to go to my room and change. This ceremonial robe is
-itchy. I'm going to need one of you Jedi knights' gentelmen to escort
+itchy. I'm going to need one of you Jedi knights' gentlemen to escort
 me. I have my own blaster here, but still will need a body guard in
 the unlikely case that there are going to be more assassins.
+
+</s>
+
+<s id="at-the-cafe" title="At the café">
+
+[
+
+Worf, Gowron, Obi-Wan, Qui-Gon, Big Mac and Rainbow Dash are at the
+café. Worf and Gowron are reading Padmé’s FAQ on tablets and are laughing
+and discussing it with the rest. Worf is wearing glasses.
+
+Padmé approaches them wearing a captioned T-shirt, trousers, and
+a medallion made out of <a href="https://twitter.com/shlomif/status/1347825822414073856">copper
+or similar</a>, escorted by her Jedi knight's acting bodyguard.
+
+]
+
+Padmé: [to the bodyguard] thanks, good luck in the tournament.
+
+[ He walks away. Padmé sits down. ]
+
+Padmé: hi, sorry it took me so long - I have too much to wear…
+
+Worf: hah! I thought I'll never hear a lady say that!
 
 </s>
 
