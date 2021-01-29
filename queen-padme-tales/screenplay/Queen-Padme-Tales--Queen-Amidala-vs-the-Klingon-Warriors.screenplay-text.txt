@@ -355,7 +355,7 @@ Portman seems better somehow.
 Natalie: everyone in position…and - action!
 
 [ Worf and Gowron growl. The two closest Jedi knights quickly pull
-two black blasters and aim them at the Klingons; Obi-Wan and Qui-Gon do the same. ]
+two <a href="https://starwars.fandom.com/wiki/DL-44_heavy_blaster_pistol">black blasters</a> and aim them at the Klingons; Obi-Wan and Qui-Gon do the same. ]
 
 The Jedi Knights: hands up!
 
@@ -375,7 +375,7 @@ kill us now, and if you wish, torture us beforehand.
 
 Padmé: OK… let's suppose for the sake of argumentation that my jedi knights
 and I have killed you (or <a href="https://www.shlomifish.org/humour/Selina-Mandrake/">slain</a>
-you), that you have died (or admitted you were wrong) and were reborn.
+you), that you have died (or admitted you were wrong), and were reborn.
 Will this be acceptable?
 
 [ Worf and Gowron smile, then laugh, open their eyes and are
@@ -415,7 +415,7 @@ crown to someone I can trust, but noone volunteered so far.)
 
 +++: Anyway, Obi-Wan and Qui-Gon will escort you to the palace's
 café where you can find an open wifi, some tablets, a screen,
-and a digital camera, and can order <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#amateur-modelled-commerce">free food</a>.
+and a digital video camera, and can order <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#amateur-modelled-commerce">free food</a>.
 
 +++: Please give them the identity of your client, primarily for
 their own good. Once you arrive there, I suggest you start reading
@@ -430,14 +430,17 @@ Big Mac: ayyup!
 
 Padmé: Oh Lord! Are you trying to scare people though?
 
-Gowron: Rainbow, Big Mac: to quote <a href="https://memory-alpha.fandom.com/wiki/Kahless_the_Unforgettable">Kahless the Unforgettable</a>:
-“Only the most timid of warriors shall attempt to evade an opportunity of peaceful enlightenment.”.
-We have no intention to escape, and surely you can outrun… or outfly us.
+Gowron: Rainbow, Big Mac: to quote
+<a href="https://memory-alpha.fandom.com/wiki/Kahless_the_Unforgettable">Kahless
+the Unforgettable</a>:
+“Only the most timid of warriors shall attempt to evade an opportunity of
+peaceful enlightenment.”.  We have no intention to escape, and surely you can
+outrun… or outfly us.
 
 Rainbow Dash: Fair enough, <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>, please
 take care of these blasters.
 
-[ Discord appears, snaps his fingers and convert Rainbow Dash's and Big Mac's blasters
+[ Discord appears, snaps his fingers and converts Rainbow Dash's and Big Mac's blasters
 into a <a href="https://duckduckgo.com/?q=mirror+dice&amp;atb=v140-1&amp;iax=images&amp;ia=images">Mirror Dice</a>
 -like ornament. ]
 
@@ -465,7 +468,7 @@ and discussing it with the rest. Worf is wearing glasses.
 
 Padmé approaches them wearing a captioned T-shirt, trousers, and
 a medallion made out of <a href="https://twitter.com/shlomif/status/1347825822414073856">copper
-or similar</a>, escorted by her Jedi knight's acting bodyguard.
+or similar</a>, escorted by her Jedi knight acting bodyguard.
 
 ]
 
