@@ -58,7 +58,7 @@ and materialised Isaiah's <a href="https://he.wikisource.org/wiki/%D7%99%D7%A9%D
 
 </s>
 
-<s id="helping-planet-spaceballs" title="Helping Planet Spaceballs">
+<s id="helping-planet-spaceball" title="Helping Planet Spaceball">
 
 [Black screen.
 
@@ -86,7 +86,7 @@ Padmé: Hey there! What's new?
 
 Skroob: Hello again, Paddy! Our planet has accepted an oxygation offer from the
 Q continuum, but we wish to stabilise the Oxygen levels so we've initiated
-enforestation efforts around Planet Spaceballs.
+enforestation efforts around Planet Spaceball.
 
 Padmé: That's great! Do you need money?
 
@@ -148,7 +148,7 @@ The Troop: 98 problems, sir!
 Sarge: Great! You might be parasites, but at least you can perform basic arithmetics!
 
 +++: Let's get it straight: while you are volunteers, can leave everytime,
-are dressed in casual clothes, and can and often must <a href="https://en.wikipedia.org/wiki/Superior_orders">refuse superior orders</a>
+are dressed in casual clothes, and can and often must <a href="https://en.wikipedia.org/wiki/Superior_orders">refuse superior orders</a>,
 and you will be housed in comfortable housing with good privacy -
 you are still Soldiers! That means you should aim to not only do
 a good job, but the best job you can! <a href="https://www.joelonsoftware.com/2004/12/06/news-45/">Rosh gadol</a> (= "big-minded")
@@ -168,12 +168,11 @@ If you face a dilemma on any topic whatsoever (even if not related
 to planting trees) then join a chat room for our troop, or
 even message me in private. ( <a href="https://twitter.com/shlomif/status/1192785494272348162">“He who saves a single soul has saved the world entire”</a>/etc.)
 
-+++: We may be losers, but at least we lose spectacularly,
-and might "win" 1 out 5 battles, and do not want our fellow
-losers to lose. This is whether because we made them fail,
-or because we didn't comment on what we considered their
-bad tactic or strategy in time (regardless of how silly or wrong we thought
-it'd be).
++++: We may be losers, but at least we lose spectacularly, and might "win" 1
+out of 5 battles, and do not want our fellow losers to lose. This is whether
+because we made them fail, or because we didn't comment on what we considered
+their bad tactic or strategy in time (regardless of how silly or wrong we
+thought our feedback is).
 
 </s>
 
