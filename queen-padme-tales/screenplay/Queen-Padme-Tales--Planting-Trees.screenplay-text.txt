@@ -2,7 +2,7 @@
 
 <s id="about" title="About this screenplay">
 
-<s id="objective" title="Objective">
+<s id="about-objective" title="Objective">
 
 [
 
