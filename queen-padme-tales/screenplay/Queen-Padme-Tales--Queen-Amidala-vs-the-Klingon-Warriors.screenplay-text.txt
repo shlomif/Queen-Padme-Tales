@@ -320,7 +320,7 @@ Message on the screen: "To be continued… Be a hero."
 
 </s>
 
-<s id="unaccepted_version_finale" title="Finale">
+<s id="unaccepted_version_commission_pledge" title="Commission Pledge">
 
 [
 
@@ -338,9 +338,10 @@ the Selinaverse's Padmé, in part because she has much better Internet Read/Writ
 web, <a href="http://www.paulgraham.com/web20.html">web 2.0</a> /
 <a href="https://en.wikipedia.org/wiki/Social-media">social media</a>
 presence than Natalie Portman does at present (which she may or may not
-opt to remedy), which is essential for the future screenplays.
+opt to remedy), and which is essential for the future screenplays.
+
 I wouldn't mind George Lucas codirecting or coproducing this series in effect, but
-Portman seems better somehow.
+Portman seems better as a codirector (including as a presumed one).
 
 ]
 
@@ -448,8 +449,8 @@ Discord: These will look great on my new <a href="https://starwars.fandom.com/wi
 
 [ He flies in a podracer not unlike the Star Wars Ep. 1's Anakin Skywalker's podracer
 , with scarves and sunglasses
-similar to <a href="https://en.wikipedia.org/wiki/Thelma_%26_Louise">Thelma &amp; Louise</a>
-and does a U-turn. ]
+similar to <a href="https://en.wikipedia.org/wiki/Thelma_%26_Louise">Thelma &amp; Louise</a>, does a U-turn,
+and leaves the frame. ]
 
 Padmé: Well, I need to go to my room and change. This ceremonial robe is
 itchy. I'm going to need one of you Jedi knights' gentlemen to escort
