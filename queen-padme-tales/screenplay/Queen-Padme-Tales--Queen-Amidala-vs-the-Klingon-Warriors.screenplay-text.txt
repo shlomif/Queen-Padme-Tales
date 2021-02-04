@@ -19,7 +19,7 @@ whose format is
 modelled loosely after <a href="https://en.wikipedia.org/wiki/Ox_Tales">Ox Tales</a>
 ). It stars <a href="https://en.wikipedia.org/wiki/Tiffany_Alvord">Tiffany Alvord</a> as
 <a href="https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala">Queen Padmé Amidala of the Naboo</a>, and which
-aims to be directed and costarred by
+aims to be codirected and costarred by
 <a href="https://en.wikipedia.org/wiki/Natalie_Portman_filmography">Natalie Portman</a>.
 More ambitiously it aims to pave way for commercial crossover / <a href="https://en.wikipedia.org/wiki/Real_person_fiction">RPF</a> fanart, help reverse copyright
 maximalism and convert Hollywood and the film industry at large to the open/free/amateur model ( see <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-cinema--copyright-cannibalism">Copyright Cannibalism</a> ).
@@ -207,7 +207,7 @@ Tiffany Alvord, man!
 Wayne: Dude, are you freaking kidding me? She's like <a href="https://www.shlomifish.org/humour/Muppets-Show-TNI/Summer-Glau-and-Chuck-Norris.html#venting_is_us">the Fluttershy of YouTube musicians</a>. Do you ever see <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> using a machine gun?
 
 [ Fluttershy is seen flying, using a machine gun to shoot at a terrified <a href="https://mlp.fandom.com/wiki/Rainbow_Dash">Rainbow Dash</a> who
-just robbed a bank, and trying to shoot back at Fluttershy using a smaller one hand gun. As she leaves the frame, Fluttershy stops and winks at the camera. ]
+just robbed a bank, and trying to shoot back at Fluttershy using a smaller one hand gun. As she leaves the frame, Fluttershy pauses and winks at the camera. ]
 
 Wayne: Next thing you tell me, <a href="https://en.wikipedia.org/wiki/Taylor_Swift">Taylor Swift</a> can get away with being shown laying waste to a whole city in a videoclip.
 
@@ -235,8 +235,8 @@ from <a href="https://en.wikipedia.org/wiki/Schadenfreude">Schadenfreude</a>.
 
 Wayne: OK, not ideal but we can work with that.
 
-+++: Anyway, you do realise that one of these "throwaway" jedi knights could just
-hurl his lightsaber at the Klingon warrior throat like a spear, right?
++++: Anyway, you do realise that one of these "throwaway" jedi knights could
+just hurl his lightsaber at the Klingon warrior throat like a spear, right?
 
 [ The 5 main actors and Natalie seem contemplative. ]
 
