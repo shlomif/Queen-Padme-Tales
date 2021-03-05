@@ -176,7 +176,7 @@ thought our feedback is).
 
 </s>
 
-<s id="shlomif-intro" title="Shlomi Fish Introing Himself">
+<s id="shlomif-intro" title="Shlomi Fish Introducing Himself">
 
 Sarge: Anyway, enough with putting you down.
 
