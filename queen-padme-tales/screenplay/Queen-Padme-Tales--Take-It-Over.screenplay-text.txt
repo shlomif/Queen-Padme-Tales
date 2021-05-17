@@ -1,4 +1,4 @@
-<s id="Planting-Trees" lang="en" title="Queen Padmé and Real-Life Friends Celebs Plant Trees in Planet Spaceball">
+<s id="Take-It-Over" lang="en" title="Let's Take It Over With">
 
 <s id="about" title="About this screenplay">
 
@@ -44,13 +44,7 @@ made available under the <a href="http://creativecommons.org/licenses/by/4.0/">C
 
 The <b>Dedication</b>:
 
-This story is dedicated to the memory of <a href="https://en.wikipedia.org/wiki/Samantha_Smith">Samantha Smith ( 1972-1985 )</a>,
-who bravely, naïvely, and "crazily" cemented the end of the Cold War as set forth
-by <a href="https://en.wikipedia.org/wiki/Sesame_Street">Sesame Street</a>
-and <a href="https://en.wikipedia.org/wiki/The_Muppet_Show">The Muppet Show</a>
-and materialised Isaiah's <a href="https://he.wikisource.org/wiki/%D7%99%D7%A9%D7%A2%D7%99%D7%94%D7%95_%D7%99%D7%90_%D7%95">over
-2,000 years old joke/story/exaggeration/entertainment/exaltation</a>
-(while being female for extra comedy/"seriousness" effect).
+TODO: FILL IN.
 
 ]
 
@@ -58,142 +52,28 @@ and materialised Isaiah's <a href="https://he.wikisource.org/wiki/%D7%99%D7%A9%D
 
 </s>
 
-<s id="helping-planet-spaceball" title="Helping Planet Spaceball">
+<s id="main-scene" title="Main scene">
 
-[Black screen.
+<s id="the-possessing-spirit" title="The Posssessng Spirit">
 
-Logo: <img src="images/tacos6306095903_a5c92746ba_o--tacos-reduced-by-jeffreyw--small-400px.webp" alt="Tacos with many toppings" />
+EmmaWatson: alright, alright, Madame Y Not a.k.a Madame Not Y, is not going to
+run for Naboo's Queen.'
 
-Initial Credits.
+[ An amorpheous blob gets out of EmmaWatson's body. <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>, dressed as Sherlock Holmes appears and cages it. ]
 
-]
+EmmaWatson: oh my goodness,…
 
-[
+Discord: elementary, Ms. Watson, my darling, <a href="https://www.phrases.org.uk/meanings/elementary-my-dear-watson.html">elemntary</a>! [ He blows some bubbles out of a bubbles' pipe]
 
-Queen <a href="https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala">Padmé Amidala of the Naboo</a>
-(Star Wars Ep. 1, played by <a href="https://en.wikipedia.org/wiki/Tiffany_Alvord">Tiffany Alvord</a>)
-sits in her office next to a desktop PC running <a href="https://en.wikipedia.org/wiki/Linux">GNU/Linux</a>.
-She sets up a video conference with <a href="https://spaceballs.fandom.com/wiki/Skroob">President Skroob</a> (sitting)
-and <a href="https://spaceballs.fandom.com/wiki/Dark_Helmet">Dark Helmet</a> (standing).
+EmmaWatson: pray continue with your narrative, Mr. Discord!
 
-]
+Discord: What we see here is a quad-thermal, meta-tachionic, temporally phenomenic, geodesic, tri-phasic
 
-Dark Helmet: hail Skroob!
+EmmaWatson: any idea what it means?
 
-[ The three including Padmé do the hand gesture thing and laugh. ]
-
-Padmé: Hey there! What's new?
-
-Skroob: Hello again, Paddy! Our planet has accepted an oxygation offer from the
-Q continuum, but we wish to stabilise the Oxygen levels so we've initiated
-enforestation efforts around Planet Spaceball.
-
-Padmé: That's great! Do you need money?
-
-Dark Helmet: Money? We got lots of money! We don't need your money!
-You don't have to give us any of your stinkin' money!
-
-[ Padmé laughs. <a href="https://www.youtube.com/watch?v=4OcM23Hbs5U">Reference</a>. ]
-
-Skroob: Seriously now, Padmé: we need volunteers to plant trees and we can even
-pay them. What will be appreciated is your friends and you setting up an example.
-
-Padmé: <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-fact-taylor-swift-10">Taytay-style</a>!
-
-Dark Helmet: Precisely, but I suggest you do it <a href="https://www.youtube.com/watch?v=FktDDKNrWjk">your way</a>;
-that is: in your own quirky, geeky, and <a href="https://en.wikipedia.org/wiki/Perfection#Paradoxes">imperfect</a> way.
-
-+++: Where do you want to start? (Shows a map of Earth's continents.)
-
-Padmé: Hmmm... how about Southern <a href="https://en.wikipedia.org/wiki/Spain">Spain</a>.
-Will you take my word as a non-Español?
-
-Skroob: Of course, some of my best friends are not Español.
-
-Padmé: Excellent! I'll invite some Internet friends (and foes!).
-
-+++: <a href="http://shlomifishswiki.branchable.com/Fluttershy__44___Princess_of_Princesses__44___head_of_the_secret_cabal_leadership_of_the_Mossad__44___the_already_top_secret_intelligence_agency_of_the_Zionist_conspiracy/">Hail Fluttershy!</a>
-
-Skroob and Dark Helmet: Hail Fluttershy!
-
-Fluttershy: [She gently enters the frame.] Hail me! [She giggles. Inspired by <a href="https://en.wikipedia.org/wiki/To_Be_or_Not_to_Be_%281942_film%29">To Be or Not to Be (1942 film)</a> ]
+Discord: <a href="https://ozyandmillie.org/comic/ozy-and-millie-1308/">not the slightest</a>
 
 </s>
-
-<s id="the-tree-planters-sergeant" title="The Tree Planters Sergeant">
-
-<s id="sarge-demotivating-speech" title="The Demotivating Speech">
-
-[ "Sarge" is a Spanish-speaking and English-speaking man and speaks in a
-(possibly fake) Spanish accent. He is the leader/organiser of the Tree Planters celeb troops. ]
-
-Sarge: Hello, losers! You are the worst of the worst! The bottom of the barrel!
-The <a href="https://en.wikipedia.org/wiki/Samantha_Smith">face that sank a thousand
-battleships</a>. You are geeky, immature, fame-hungry, attention whoring,
-<a href="https://www.shlomifish.org/humour/fortunes/paul-graham.html">amateur</a>,
-parasite, think-you're-so-sexy, "celebrities", "creators",
-<a href="https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html#from-dispeller-to-selina">new age</a>
-philosophers / <a href="https://www.youtube.com/watch?v=gVvMl1Ig9cY">educators / entertainers</a>.
-
-+++: I hate your guts. You guys suck! Do you understand that?
-
-The Troop: [in unison] Yes sir, we suck sir!
-
-Sarge: Good! Realising you were an idiot is <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-perl-I-was-an-idiot">an
-easy problem to fix</a>! So you immediately <a href="http://shlomifishswiki.branchable.com/99_Problems/">have one less problem</a>.
-So how many problems do you have now, eh, soldiers?
-
-The Troop: 98 problems, sir!
-
-Sarge: Great! You might be parasites, but at least you can perform basic arithmetics!
-
-+++: Let's get it straight: while you are volunteers, can leave everytime,
-are dressed in casual clothes, and can and often must <a href="https://en.wikipedia.org/wiki/Superior_orders">refuse superior orders</a>,
-and you will be housed in comfortable housing with good privacy -
-you are still soldiers! That means you should aim to not only do
-a good job, but the best job you can! <a href="https://www.joelonsoftware.com/2004/12/06/news-45/">Rosh gadol</a> (= "big-minded")
-like our Israeli brothers-in-arm would say, and which, despite
-common misconception, was also likely implemented in
-<a href="https://www.geekwire.com/2011/top-10-reasons-darth-vader-amazing-project-manager/">Nazi Germany</a> despite their insistence on following
-orders (but often to awful consequences).
-
-+++: That doesn't mean you shouldn't <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/hacking-heroism.xhtml">"hack"</a>. On the contrary:
-know your strengths and weaknesses, ask others for help,
-think outside the box, be resourceful, and aim to be the best
-you can given the time.
-
-+++: Note: you have my contact info and you have brought portable
-computers, smartphones, or other devices, to your rooms.
-If you face a dilemma on any topic whatsoever (even if not related
-to planting trees) then join a chat room for our troop, or
-even message me in private. ( <a href="https://twitter.com/shlomif/status/1192785494272348162">“He who saves a single soul has saved the world entire”</a>/etc.)
-
-+++: We may be losers, but at least we lose spectacularly, and might "win" 1
-out of 5 battles, and do not want our fellow losers to lose. This is whether
-because we made them fail, or because we didn't comment on what we considered
-their bad tactic or strategy in time (regardless of how silly or wrong we
-thought our feedback is).
-
-</s>
-
-<s id="shlomif-intro" title="Shlomi Fish Introducing Himself">
-
-Sarge: Anyway, enough with putting you down.
-
-+++: Mr. Shlomi Fish a.k.a "Rindolf"!
-
-shlomif: At your service, sergeant!
-
-Sarge: So… Mr. Fish… is "Shlomi Fish" your real name?
-
-shlomif: As <a href="https://www.shlomifish.org/meta/FAQ/your_name.xhtml">real
-as it gets</a> among Jewish Israelis, sir.
-
-Sarge: Do you expect me to believe you?
-
-shlomif: I do not care what a fellow human believes or
-suspects, sir. Just what they do, or to a lesser
-extent - say.
 
 </s>
 
