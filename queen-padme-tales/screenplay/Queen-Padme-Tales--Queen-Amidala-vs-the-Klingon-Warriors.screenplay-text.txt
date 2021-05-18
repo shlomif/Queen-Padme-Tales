@@ -599,6 +599,20 @@ and resent you. And there is <a href="https://www.shlomifish.org/philosophy/cult
 
 </s>
 
+<s id="how-the-assassination-was-foiled" title="How the assassination was foiled">
+
+Padmé: I should note that that was the first attempt to assassinate me, and
+your wives turned you in many days ago, and cooperated with the Selinaverse's
+intelligence community.
+
+Gowron: Heh, we thought we could trust them…
+
+Worf: we can… that is why they turned us in.
+
+Padmé: Exactly, after the news broke out that an assassination attempt is
+
+</s>
+
 </s>
 
 <s id="credits" title="Image Credits">
