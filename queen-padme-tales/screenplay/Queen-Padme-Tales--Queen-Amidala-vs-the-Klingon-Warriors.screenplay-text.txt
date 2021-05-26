@@ -670,7 +670,7 @@ Padmé: Anyway, the problem is my spiritual needs: talking, going on dates, <a h
 
 Worf: Your majesty, would you like to make that part off-the-record?
 
-Padmé: off-the-record? <a href="https://github.com/shlomif/supporting-older-perl5-releases">Fuck that!</a> I want the whole world and their sister-in-law to know that while I ostensibly have a boyfriend, and I still love him, he is not giving me sufficient attenion.
+Padmé: off-the-record? <a href="https://github.com/shlomif/supporting-older-perl5-releases">Fuck that!</a> I want the whole world and their sister-in-law to know that while I ostensibly have a boyfriend, and I still love him, he is not giving me sufficient attention.
 
 Gowron: [cheers for Padmé] your Majesty, sounds like you need to <a href="https://www.youtube.com/watch?v=QUQsqBqxoR4">honestly</a> confront him, and give him an ultimatum.
 
