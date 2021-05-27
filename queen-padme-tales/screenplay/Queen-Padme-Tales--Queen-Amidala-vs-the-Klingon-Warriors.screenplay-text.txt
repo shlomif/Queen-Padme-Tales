@@ -700,6 +700,10 @@ and we suspect it was because he took her too much for granted.
 
 +++: We then watch some of their latest martial arts fights - often with them overlooking.
 
+</s>
+
+<s id="Naboo--going-to-eat" title="Going to eat">
+
 Worf: Hey, I'm getting hungry.
 
 [ Everyone else: yeah let's eat. ]
@@ -711,6 +715,24 @@ Padmé: Well, I don't think <a href="https://mlp.fandom.com/wiki/Party_Pooped">y
 Worf: Sure, we like Pizza too.
 
 Padmé: Then I know many good Pizza outlets. One of them is a walk away. And we can use the exercise.
+
+Padmé: Do note that as far as I, and Naboo's law, are concerned, everything I said and was recorded here is <a href="https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain">CC-zero / public domain</a>. We'll send you two a copy of the recording.
+
+Worf: Thank you!
+
+</s>
+
+<s id="hacky-ending" title="A Hacky Ending">
+
+[
+
+Padmé is watching a video message from Worf and Gowron on her
+<a href="https://en.wikipedia.org/wiki/Linux">Desktop Linux</a>
+system.
+
+]
+
+Worf: TODO.
 
 </s>
 
