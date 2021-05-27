@@ -726,13 +726,25 @@ Worf: Thank you!
 
 [
 
-Padmé is watching a video message from Worf and Gowron on her
+Padmé is watching a public video message from Worf and Gowron on her
 <a href="https://en.wikipedia.org/wiki/Linux">Desktop Linux</a>
 system.
 
 ]
 
-Worf: TODO.
+Worf: Greetings Queen Padmé Amidala of the Naboo! It turns out failing to assassinate you has had a much better financial outcome than if we'd had have succeeded. We got so much publicity, and made a lot of money from relicensing pledges, merchandise, selling higher quality media, and interviews / collabs ( <a href="https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/">Reference</a> ), and the publicity been good as well.
+
++++: Anyway, we respected your wish to help sustain your bank balance, but we donated to some charities that you endorse. And we always can be reached - whether online or offline - either by you, or anybody else.
+
++++: <a href="https://www.youtube.com/watch?v=eZQyVUTcpM4">Keep The Faith!</a>
+
+[ video finishes. ]
+
+Padmé: computer: voice bank balance offset since before loan to Worf and Gowron.
+
+Computer: Offset is a positive 12.7 million U.S. Dollars
+
+Padmé: rats!
 
 </s>
 
