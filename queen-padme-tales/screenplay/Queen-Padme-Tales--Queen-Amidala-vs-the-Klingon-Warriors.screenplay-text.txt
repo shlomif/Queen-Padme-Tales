@@ -678,6 +678,15 @@ Padmé: Perhaps…
 
 </s>
 
+<s id="About-Worf-and-Gowron" title="About Worf and Gowron">
+
+Padmé: Well, let's talk about you. Mr. Worf, you had an illustrious career as a
+UFP Star Fleet officer while Mr. Gowron was a <a href="https://memory-alpha.fandom.com/wiki/Chancellor_of_the_Klingon_High_Council">Chancellor of the Klingon High Council</a>. Now you are family men, and also MMA fighters who together or alone hold several galactical records.
+
+Worf: yes, do note that it is a step sideways, because we just <a href="https://www.youtube.com/watch?v=mpv8prvZufk">needed a change</a>. We might return or fight in altogether different ways.
+
+</s>
+
 </s>
 
 <s id="credits" title="Image Credits">
