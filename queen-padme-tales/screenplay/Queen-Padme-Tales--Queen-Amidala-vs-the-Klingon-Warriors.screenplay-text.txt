@@ -681,9 +681,9 @@ Padmé: Perhaps…
 <s id="About-Worf-and-Gowron" title="About Worf and Gowron">
 
 Padmé: Well, let's talk about you. Mr. Worf, you had an illustrious career as a
-UFP Star Fleet officer while Mr. Gowron was a <a href="https://memory-alpha.fandom.com/wiki/Chancellor_of_the_Klingon_High_Council">Chancellor of the Klingon High Council</a>. Now you are family men, and also MMA fighters who together or alone hold several galactical records.
+UFP Star Fleet officer while Mr. Gowron was a <a href="https://memory-alpha.fandom.com/wiki/Chancellor_of_the_Klingon_High_Council">Chancellor of the Klingon High Council</a>. Now you are family men, and also <a href="https://en.wikipedia.org/wiki/Mixed_martial_arts">MMA</a> fighters who together or alone hold several galactical records.
 
-Worf: yes, do note that it is a step sideways, because we just <a href="https://www.youtube.com/watch?v=mpv8prvZufk">needed a change</a>. We might return or fight in altogether different ways.
+Worf: yes, do note that it is a step <a href="https://www.youtube.com/watch?v=oZoCmeXgE9U">sideways</a>, because we just <a href="https://www.youtube.com/watch?v=mpv8prvZufk">needed a change</a>. We might return or wage war in altogether different ways.
 
 Padmé: sure, even my grandparents, the king of Naboo, and his wife (who is a Jewess by blood, and the reason I am Jewish too) retired about 29 years ago.
 
@@ -693,10 +693,12 @@ Gowron: Well, Worf and I are still figuring out the rules… <a href="https://ww
 
 +++: But here is some advice: try to <a href="https://twitter.com/shlomif/status/1394277859561283586">know (= educate/entertain)</a> your opponent. Before the fight, we invite them for a drink and talk about stuff we both like: video shows, comics, films, literature, software dev (a bottomless pit, I admit), internet memes, songs, etc. We want to get them to like us and vice versa.
 
-+++: Muhammad Ali, who was a great warrior in his day said <a href="http://www.quotationspage.com/quote/413.html">"My toughest fight was with my first wife."</a>
++++: Muhammad Ali, who was a great warrior in his day reportedly said <a href="http://www.quotationspage.com/quote/413.html">"My toughest fight was with my first wife."</a>
 and we suspect it was because he took her too much for granted.
 
-+++: Anyway, if they are certain they will win, we cancel the fight, because it'd be too risky. If they are convinced they will lose, we try to tell them there is a chance <a href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/summer_glau_presents__the_talk__amateur_fighters.xhtml">they will win</a>, and they actually do on rare ocassions.
++++: Anyway, if they are certain they will win, we cancel the fight, because it'd be too risky. If they are convinced they will lose, we try to tell them there is still a chance, however small, that <a href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/summer_glau_presents__the_talk__amateur_fighters.xhtml">they will win</a>, and they actually do on rare ocassions.
+
++++: ( If they think either of us may win, then it's all good, hah! )
 
 +++: We then watch some of their latest martial arts fights - often with them overlooking.
 
@@ -706,7 +708,7 @@ and we suspect it was because he took her too much for granted.
 
 Worf: Hey, I'm getting hungry.
 
-[ Everyone else: yeah let's eat. ]
+[ Everyone else: "yeah, let's eat." ]
 
 Worf: Given her majesty was the victim, she gets to choose the restaurant.
 
@@ -732,13 +734,13 @@ system.
 
 ]
 
-Worf: Greetings Queen Padmé Amidala of the Naboo! It turns out failing to assassinate you has had a much better financial outcome than if we'd had have succeeded. We got so much publicity, and made a lot of money from relicensing pledges, merchandise, selling higher quality media, and interviews / collabs ( <a href="https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/">Reference</a> ), and the publicity been good as well.
+Worf: Greetings Queen Padmé Amidala of the Naboo! It turns out failing to assassinate you has had a much better financial outcome than if we'd have succeeded. We got so much publicity, and made a lot of money from relicensing pledges, merchandise, selling higher quality media, and interviews / collabs ( <a href="https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/">Reference</a> ), and the publicity been good as well.
 
 +++: Anyway, we respected your wish to help sustain your bank balance, but we donated to some charities that you endorse. And we always can be reached - whether online or offline - either by you, or anybody else.
 
 +++: <a href="https://www.youtube.com/watch?v=eZQyVUTcpM4">Keep The Faith!</a>
 
-[ video finishes. ]
+[ video finishes. Padmé "likes" it and posts a brief "Thank you! ♥!" reply. ]
 
 Padmé: computer: voice bank balance offset since before loan to Worf and Gowron.
 
