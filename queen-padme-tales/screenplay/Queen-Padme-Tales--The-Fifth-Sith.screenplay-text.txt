@@ -156,11 +156,31 @@ Anakin: Yeah. Are you going to tweet about it?
 
 Padmé: Tweet? I'll buy a <a href="https://en.wikipedia.org/wiki/Super_Bowl">Super Bowl</a> commercial if you wish.
 
-Anakin: Well, knowing you and your spirit frenemies, it will be common knowledge anyway.
+Anakin: Well, knowing you and your spirit frenemies, it likely will be common knowledge soon anyhow.
 
-+++: Anyway, I'm gonna move to the other room so we won't distract
++++: Anyway, I'm gonna move to the other room so we won't distract one another too much.
+
+[ before Anakin closes the door. ]
+
+Anakin: good night, Padpad! And by the way, despite appearances to the contrary, you're a sith im the streets, too.
+
+Padmé: thank you!
+
+[ Anakin closes the door. Padmé is lying in bed happy. After several second she opens her eyes widely. ]
 
 </s>
+
+<s id="what-maketh-a-sith" title="What maketh a sith?">
+
+[ Padmé is walking to her office. ]
+
+Padmé’s Internal Dialogue: I am a Sith. I am the fifth sith. But what does being a sith entail? What maketh a sith? And who will be the sixth sith?
+
++++: God, this word must have the worst <a href="https://en.wikipedia.org/wiki/Phonology">Phonology</a> ever!
+
+
+</s>
+
 
 </s>
 
