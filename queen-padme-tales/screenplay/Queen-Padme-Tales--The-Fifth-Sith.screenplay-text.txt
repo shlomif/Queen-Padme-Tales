@@ -152,9 +152,13 @@ Anakin: yes, you were great too.
 
 Padmé: Well, you know the old Internet meme: “Jedi in the streets; sith in the sheets.”
 
-Anakin: Are you going to tweet about it?
+Anakin: Yeah. Are you going to tweet about it?
 
-Padmé: Tweet?
+Padmé: Tweet? I'll buy a <a href="https://en.wikipedia.org/wiki/Super_Bowl">Super Bowl</a> commercial if you wish.
+
+Anakin: Well, knowing you and your spirit frenemies, it will be common knowledge anyway.
+
++++: Anyway, I'm gonna move to the other room so we won't distract
 
 </s>
 
