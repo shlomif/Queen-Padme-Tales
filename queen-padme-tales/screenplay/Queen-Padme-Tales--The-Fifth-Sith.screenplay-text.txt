@@ -138,6 +138,26 @@ Cut. ]
 
 </s>
 
+<s id="sith-in-the-sheets" title="Sith in the sheets">
+
+[ Caption: "Later that night" ]
+
+Padmé: wow, that was… great!
+
+Anakin: which base was that?
+
+Padmé: in practice? <a href="https://www.firsttoeleven.com/">First to eleven</a>! I love you.
+
+Anakin: yes, you were great too.
+
+Padmé: Well, you know the old Internet meme: “Jedi in the streets; sith in the sheets.”
+
+Anakin: Are you going to tweet about it?
+
+Padmé: Tweet?
+
+</s>
+
 </s>
 
 </s>
