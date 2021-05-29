@@ -50,6 +50,8 @@ The <b>Dedication</b>:
 
 </s>
 
+<s id="main-scene" title="Main Scene">
+
 <s id="anakin-becoming-a-Sith" title="Anakin becoming a sith">
 
 <s id="yoda-as-a-closet-Sith" title="Yoda">
@@ -133,6 +135,8 @@ Padmé: Who would have thought that being funny can be so sexy! ( <a href="https
 [ They think for a moment, and then start kissing passionately .
 
 Cut. ]
+
+</s>
 
 </s>
 
