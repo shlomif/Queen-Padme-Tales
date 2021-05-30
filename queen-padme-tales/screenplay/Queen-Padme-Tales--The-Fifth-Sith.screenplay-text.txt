@@ -166,7 +166,7 @@ Anakin: good night, Padpad! And by the way, despite appearances to the contrary,
 
 Padmé: thank you!
 
-[ Anakin closes the door. Padmé is lying in bed happy. After several second she opens her eyes widely. ]
+[ Anakin closes the door. Padmé is lying in bed happy. After several seconds she opens her eyes widely. ]
 
 </s>
 
@@ -178,9 +178,40 @@ Padmé’s Internal Dialogue: I am a Sith. I am the fifth sith. But what does be
 
 +++: God, this word must have the worst <a href="https://en.wikipedia.org/wiki/Phonology">Phonology</a> ever!
 
+[ Padmé opens the door to her office. She enters, sits next to the computer, types
+"what is a sith" ( without the quotes ) into the browser's address bar, and presses
+Enter. Her vision becomes blurry and she falls asleep. ]
 
 </s>
 
+</s>
+
+<s id="Q-about-sithness" title="Q about the essence of being a Sith">
+
+<s id="the-morning-after" title="The morning after">
+
+[
+
+Padmé is in her office sleeping with a wide smile on her face. She wakes up,
+stretches her arms and then sees four spirit friends: <a href="https://mlp.fandom.com/wiki/Twilight_Sparkle">Twilight Sparkle</a>, <a href="https://mlp.fandom.com/wiki/Starlight_Glimmer">Starlight_Glimmer</a>, <a href="https://mlp.fandom.com/wiki/Rainbow_Dash">Rainbow_Dash</a> and <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>.
+
+]
+
+Padmé: Whoa [scared…]
+
+Twilight Sparkle: Good morning your majesty, rise and shine.
+
++++: We're helping you with your research.
+
+[
+
+.
+.
+.
+
+]
+
+</s>
 
 </s>
 
