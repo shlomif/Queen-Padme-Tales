@@ -110,8 +110,8 @@ Yoda is seen chuckling, and the two Siths join him.
 
 <s id="funny-can-be-sexy" title="Funny can be sexy">
 
-[ Padmé and Anakin returned from their date
-]
+[ Padmé and Anakin returned from their date, and are walking towards Padmé's
+room.  ]
 
 Anakin: heh, we got a lot of cash today…
 
@@ -140,7 +140,14 @@ Cut. ]
 
 <s id="sith-in-the-sheets" title="Sith in the sheets">
 
-[ Caption: "Later that night" ]
+[
+
+Caption: "Later that night"
+
+Padmé and Anakin are in Padmé's bedroom.
+
+]
+
 
 Padmé: wow, that was… great!
 
@@ -228,6 +235,24 @@ Discord: wow! 1.21 peta-Flops.
 [The printer starts printing. Discord takes a page.]
 
 Discord: "One sith, two sith; red sith, blue sith" [ <a href="https://en.wikipedia.org/wiki/One_Fish,_Two_Fish,_Red_Fish,_Blue_Fish">Reference</a> ]
+
++++: "On the Internet, everyone knows you'e a sith." [ <a href="https://www.shlomifish.org/humour.html#on_the_Internet">Reference</a> ]
+
++++: "I'm not just doing it for money. I'm doing it for doing hot siths." [ <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=doing-hot-celebs--2021-edition">Reference</a> ]
+
+[ <a href="https://buffyfanfiction.fandom.com/wiki/Q_(Selinaverse)">Q of the Selinaverse</a> rings the office's door bell ]
+
+Padmé: Enter! … oh! Hi, Mr. Q. [they hug]
+
+Q: Hi Padmé! You seem tired, but unusually happy and radiant.
+
+Padmé: well, I had a great night [the spirit friends blink]... a great day and night. Eh, a great day!
+
+[ The spirit friends say "ooh", chuckle, and use their smartphones to tweet. ]
+
+Padmé: fine, go ahead… I don't mind it <b>that</b> much.
+
++++: anyway, Q, I've become a sith and I'm trying to
 
 </s>
 
