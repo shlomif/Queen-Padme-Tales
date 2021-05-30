@@ -54,6 +54,21 @@ The <b>Dedication</b>:
 
 <s id="anakin-becoming-a-Sith" title="Anakin becoming a sith">
 
+<s id="anakin-the-jedi" title="Anakin the Jedi">
+
+[ Anakin and Padmé enter Darth Vader’s office. ]
+
+Anakin: Hey Uncle Vader! Per the emails exchange I sent you, I have decided that
+my relationship with Padmé and my other friends and my emotional well-being are
+more important than graduating from that cursed jedi school.
+
++++: So for now here is my lightsaber [hands it to Vader].
+
+Vader: Keep it! It's yours. Anakin, having read that exchange and having forarded
+it to my jedi colleagues, both Master Yoda, and <a href="https://starwars.fandom.com/wiki/Darth_Sidious">Emperor Palpatine</a> have approved
+
+</s>
+
 <s id="yoda-as-a-closet-Sith" title="Yoda">
 
 Anakin: I'm the fourth sith? Who is the third, then?
