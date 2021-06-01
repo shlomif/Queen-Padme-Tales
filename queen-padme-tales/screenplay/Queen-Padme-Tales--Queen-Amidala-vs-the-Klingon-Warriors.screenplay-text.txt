@@ -704,6 +704,27 @@ and we suspect it was because he ended up taking her too much for granted.
 
 </s>
 
+<s id="Padme-inviting-the-assassins-wives" title="Inviting the Assassins' Wives">
+
+Padmé: I should note that I invited your wives, to help me beta test my new
+clothes selector product by me giving them clothes.
+
+Worf: yes, they complain they don't have enough to wear.
+
+Padmé: Yes, it is really <a href="https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(1996_TV_series)#Opening_sequence">Sabrina-style</a>. I was offered early access and accepted, and ended up finding a few bugs. They were fixed.
+
+Worf: Heh, nice. Were you paid for that?
+
+Padmé: Well… if I pay, commentators complain; if I get paid, commentators complain; if it's a free gift, they also complains.
+
+Twilight Sparkle: <a href="http://shlomifishswiki.branchable.com/Never_Try_to_Please_Everyone/">You can never please everypony</a>!
+
+Big Mac: ayyup!
+
+Gowron: Story of my life… of everypony's, heh.
+
+</s>
+
 <s id="Naboo--going-to-eat" title="Going to eat">
 
 Worf: Hey, I'm getting hungry.
