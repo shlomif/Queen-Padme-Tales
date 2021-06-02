@@ -18,11 +18,11 @@ It aims to launch the "Queen Padmé Tales" web series (
 whose format is
 modelled loosely after <a href="https://en.wikipedia.org/wiki/Ox_Tales">Ox Tales</a>
 ). It stars <a href="https://en.wikipedia.org/wiki/Tiffany_Alvord">Tiffany Alvord</a> as
-<a href="https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala">Queen Padmé Amidala of the Naboo</a>, and which
+<a href="https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala">Queen Padmé Amidala of the Naboo</a>, and
 aims to be codirected and costarred by
 <a href="https://en.wikipedia.org/wiki/Natalie_Portman_filmography">Natalie Portman</a>.
 More ambitiously it aims to pave way for commercial crossover / <a href="https://en.wikipedia.org/wiki/Real_person_fiction">RPF</a> fanart, help reverse copyright
-maximalism and convert Hollywood and the film industry at large to the open/free/amateur model ( see <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=sharp-cinema--copyright-cannibalism">Copyright Cannibalism</a> ).
+maximalism and convert Hollywood and the film industry at large to the open/free/amateur model ( see my essay <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/">“Commercial Real Person Fan Fiction (RPFs), crossovers and parodies as 2021 geek/hacker imperatives for revitalising the film industry”</a> ).
 
 We may not succeed, but at least we're going to try.
 
@@ -61,7 +61,7 @@ The <b>Dedication</b>:
 
 This story is dedicated to the memory of <a href="https://en.wikipedia.org/wiki/Christina_Grimmie">Christina Grimmie (1994-2016)</a>,
 a remarkable singer and youtuber, who was killed at age 22 by a fan who was
-obsessed with her, who almost immediately committed suicide himself.
+obsessed with her, and who almost immediately committed suicide himself.
 
 For what I consider her Magnus Opus see her original
 <a href="https://www.youtube.com/watch?v=kYX8sjIzjGw">"Feelin' Good" song and videoclip</a>
@@ -95,7 +95,8 @@ the box, challenge the invisible rules, "hack" something, or even temporarily
 or permanently give
 up. <a href="https://en.wikipedia.org/wiki/There%27s_more_than_one_way_to_do_it">There's more than one way to do it</a>
 (even <a href="https://brilliant.org/wiki/proofs-of-the-pythagorean-theorem/">in maths</a> and
-when writing <a href="https://en.wikipedia.org/wiki/Python_%28programming_language%29">Python</a> code) and different people like different things.
+when writing <a href="https://en.wikipedia.org/wiki/Python_%28programming_language%29">Python</a> code)
+and different people like different things.
 
 »
 
@@ -178,7 +179,8 @@ Natalie: [to Tiffany] I knew you had it in you. [They hug].
 
 Wayne's voice from a different frame: Dude! This sucks.
 
-[ Split frame with <a href="https://en.wikipedia.org/wiki/Wayne%27s_World_(film)">Wayne and Garth</a>
+[ Split frame with Wayne and Garth
+<a href="https://en.wikipedia.org/wiki/Wayne%27s_World_(film)"><i>Wayne’s World</i></a>
 sitting in an untidy room next to a computer screen.
 They are the plot programmers. ]
 
@@ -215,7 +217,8 @@ Garth: but, but…
 
 [
 
-Still from toward the end of <a href="https://www.youtube.com/watch?v=QcIy9NiNbmo">Bad Blood</a>:
+Still from toward the end of Taylor Swift’s
+<a href="https://www.youtube.com/watch?v=QcIy9NiNbmo">Bad Blood videoclip</a>:
 <img src="images/bad-blood189.webp" alt="Taylor Swift and friends still from Bad Blood" />
 
 ]
@@ -431,7 +434,7 @@ Rainbow Dash: We'll make sure they do not leave the palace's premises!
 
 Big Mac: ayyup!
 
-Padmé: Oh Lord! Are you trying to scare people though?
+Padmé: Oh Lord! Are you trying to scare people with these blasters though?
 
 Gowron: Rainbow, Big Mac: to quote
 <a href="https://memory-alpha.fandom.com/wiki/Kahless_the_Unforgettable">Kahless
@@ -582,7 +585,7 @@ Gowron and Worf: hah hah… [they gently pat Padmé’s shoulders.]
 Padmé: Anyway, the other gamblers quickly followed my lead, so Quark
 lost a lot of money that day. I felt sorry for him so I volunteered
 to offset his bet as a gift. Then people on social media and mainstream
-media accused me of being addicted to gambling - I was not, but I
+media accused me of being addicted to gambling. I am not, but I
 decided to avoid that just to please them.
 
 Worf: You should not care <b>that much</b> what other people say about you.
@@ -614,11 +617,12 @@ upcoming, the whole multiverse was abuzz. Luckily, most laymen were not informed
 on the exact identity of the assassins, though there were many speculations.
 
 +++: We tightened security, equipped all jedi guards with blasters, and I had to get
-a blaster licence myself. All those hours playing <a href="https://en.wikipedia.org/wiki/Duck_Hunt">Duck Hunt</a> with my cousins and friends have paid off… heh.
+a blaster licence myself. All those hours playing
+<a href="https://en.wikipedia.org/wiki/Duck_Hunt">Duck Hunt</a> with my cousins and friends have paid off… heh.
 
 Gowron: We're sorry, your majesty…
 
-Padmé: no worries… it was actually rather exciting. "War is good for business; peace is good for business." like <a href="https://memory-beta.fandom.com/wiki/Ferengi_Rules_of_Acquisition">The Ferengi Rules of Acquisition</a> go.
+Padmé: no worries… it was actually quite exciting. "War is good for business; peace is good for business." like <a href="https://memory-beta.fandom.com/wiki/Ferengi_Rules_of_Acquisition">The Ferengi Rules of Acquisition</a> go.
 
 Worf: Speaking of guards, Rainbow Dash: can you tell us why does <a href="https://mlp.fandom.com/wiki/Twilight_Sparkle">Princess Twilight Sparkle</a>'s castle not have guards as opposed to Celestia's and Luna's?
 
@@ -634,7 +638,7 @@ Twilight_Sparkle: heh heh… anyway, there has been interest by someponies in be
 
 Gowron: hah! If I may interrupt you, your highness… even Queen Elizabeth II does not <a href="https://www.manchestereveningnews.co.uk/news/greater-manchester-news/guest-honour-queen-leaves-couple-685253">bring her ridiculous guards to weddings she attends in Manchester</a>. If someone tries to assassinate you, you have been doing something wrong.
 
-+++: You can say that volunteers may patrol your castle voluntarily, and request as much money as they wish after giving their report, and you'll give them as much as you think they deserve.
++++: You can say that volunteers may patrol your castle voluntarily, and request as much money as they wish after giving their reports, and you'll give them as much as you think they deserve.
 
 Twilight_Sparkle: I guess you're right. That will simplify matters considerably.
 
@@ -691,12 +695,12 @@ Padmé: sure, even my grandparents, the king of Naboo, and his wife (who is a Je
 
 Gowron: Well, Worf and I are still figuring out the rules… <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml">the guidelines</a>! … as we run into them, heh.
 
-+++: But here is some advice: try to <a href="https://twitter.com/shlomif/status/1394277859561283586">know (= educate/entertain)</a> your opponent. Before the fight, we invite them for a drink and talk about stuff we both like: video shows, comics, films, literature, software dev (a bottomless pit, I admit), internet memes, songs, etc. We want to get them to like us and vice versa.
++++: But here is some advice: try to <a href="https://twitter.com/shlomif/status/1394277859561283586">know (= educate/entertain)</a> your opponent. Before the fight, we invite them for a drink and talk about stuff we both like: video shows, comics, films, literature, software dev (a bottomless pit, I admit), internet memes, songs, etc. We want to get them to like us and vice versa, and develop a general fuzzy model of their personality.
 
 +++: Muhammad Ali, who was a great warrior in his day reportedly said <a href="http://www.quotationspage.com/quote/413.html">"My toughest fight was with my first wife."</a>,
 and we suspect it was because he ended up taking her too much for granted.
 
-+++: Anyway, if they are certain they will win, we cancel the fight, because it'd be too risky. If they are convinced they will lose, we try to tell them there is still a chance, however small, that <a href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/summer_glau_presents__the_talk__amateur_fighters.xhtml">they will win</a>, and they actually do on rare ocassions.
++++: Anyway, if they seem certain they will win, we cancel the fight, because it'd be too risky. If they are convinced they will lose, we try to tell them there is still a chance, however small, that <a href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/indiv-nodes/summer_glau_presents__the_talk__amateur_fighters.xhtml">they will win</a>, and they actually do on rare ocassions.
 
 +++: ( If they think either of us may win, then it's all good, hah! )
 
@@ -706,7 +710,7 @@ and we suspect it was because he ended up taking her too much for granted.
 
 <s id="Padme-inviting-the-assassins-wives" title="Inviting the Assassins' Wives">
 
-Padmé: I should note that I invited your wives, to help me beta test my new
+Padmé: I should note that I invited your wives, to help me beta test a new
 clothes selector product by me giving them clothes.
 
 Worf: yes, they complain they don't have enough to wear.
@@ -733,13 +737,19 @@ Worf: Hey, I'm getting hungry.
 
 Worf: Given her majesty was the victim, she gets to choose the restaurant.
 
-Padmé: Well, I don't think <a href="https://mlp.fandom.com/wiki/Party_Pooped">you'll like our non-Authentic Klingon food</a>, but how about non-Authentic Pizza? <a href="https://twitter.com/search?q=%40TiffanyAlvord%20pizza&amp;src=typed_query">My actress is obsessed with Pizza</a>.
+Padmé: Well, I don't think <a href="https://mlp.fandom.com/wiki/Party_Pooped">you'll like our non-Authentic Klingon food</a>,
+but how about non-Authentic Pizza?
+<a href="https://twitter.com/search?q=%40TiffanyAlvord%20pizza&amp;src=typed_query">The
+actress who plays me is obsessed with Pizza</a>.
 
 Worf: Sure, we like Pizza too.
 
 Padmé: Then I know many good Pizza outlets. One of them is a walk away. And we can use the exercise.
 
-Padmé: Do note that as far as I, and Naboo's law, are concerned, everything I said and was recorded here is <a href="https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain">CC-zero / public domain</a>. We'll send you two a copy of the recording.
+Padmé: Do note that as far as I, and Naboo's law, are concerned, everything I
+said and was recorded here is
+<a href="https://en.wikipedia.org/wiki/Creative_Commons_license#Zero_/_public_domain">CC-zero / public domain</a>.
+We'll send you two a copy of the recording.
 
 Worf: Thank you!
 
