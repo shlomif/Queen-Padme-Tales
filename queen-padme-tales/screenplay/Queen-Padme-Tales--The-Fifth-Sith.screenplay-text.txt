@@ -293,6 +293,18 @@ Q: sure [ he snaps his fingers causing a desk with a computer to materialise.]! 
 
 </s>
 
+<s id="Q-and-discord-presentation" title="Q and Discord Present about The State of the Selinaverse">
+
+[
+
+<b>TODO:</b> add live excerpts from the talk by <a href="https://buffyfanfiction.fandom.com/wiki/Q_(Selinaverse)">Q of the Selinaverse</a>
+and his spiritual cousin Discord (who was forked from the one at the
+end of the mlpfim 7th season).
+
+]
+
+</s>
+
 </s>
 
 </s>
