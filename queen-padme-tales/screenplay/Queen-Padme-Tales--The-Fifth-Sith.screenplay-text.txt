@@ -52,6 +52,21 @@ The <b>Dedication</b>:
 
 <s id="main-scene" title="Main Scene">
 
+<s id="anakin-quitting-jedi-school" title="Anakin quitting jedi school">
+
+<s id="padme-criticising-anakin" title="Criticising Anakin">
+
+[
+
+Padmé is sitting in her office in the morning next using a desktop Linux
+system. A male cat is lying ab
+
+]
+
+</s>
+
+</s>
+
 <s id="anakin-becoming-a-Sith" title="Anakin becoming a sith">
 
 <s id="anakin-the-jedi" title="Anakin the Jedi">
