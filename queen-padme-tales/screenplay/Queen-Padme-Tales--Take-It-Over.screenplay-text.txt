@@ -54,6 +54,14 @@ TODO: FILL IN.
 
 <s id="main-scene" title="Main scene">
 
+<s id="mystery-woman-for-the-crown" title="Mystery Woman for Naboo's Crown">
+
+Padmé: so, Emma, what brings you to Naboo?
+
+EmmaWatson: I want to destroy you!
+
+</s>
+
 <s id="the-possessing-spirit" title="The Possessing Spirit">
 
 EmmaWatson: alright, alright, Madame Y Not a.k.a Madame Not Y, is not going to
@@ -91,15 +99,15 @@ Fluttershy emerges.
 
 Fluttershy: oh, Pinkie, how could you?
 
-EmmaWatson: And that will teach me not to pick up <a href="https://www.youtube.com/watch?v=MkElfR_NPBI">books with a strange glow</a> from old book stores in London.
+EmmaWatson: And that will teach me to not pick up <a href="https://www.youtube.com/watch?v=MkElfR_NPBI">books with a strange glow</a> from old book stores in London.
 
 Padmé: Discord, was that your orchestration?
 
 Discord: I'll take the fifth [counts only up to four using his 4 fingered palm.].
 
-Padmé: OK, Emma, let me blog that the whole crisis is hopefully over; it harmed your
-online/offline presence more than it harmed Naboo, but it did uncover some loopholes
-in the Naboo policies.
+Padmé: OK, Emma, let me blog that the whole crisis is hopefully over; it harmed
+your online/offline presence more than it harmed Naboo, but it did uncover some
+loopholes in the Naboo policies.
 
 EmmaWatson: yeah! <a href="https://en.wikipedia.org/wiki/Samson">the sweet emerged from the mighty</a>.
 
