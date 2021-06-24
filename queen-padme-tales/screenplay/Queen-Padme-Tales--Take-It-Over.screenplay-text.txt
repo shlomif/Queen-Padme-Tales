@@ -60,6 +60,15 @@ Padmé: so, Emma, what brings you to Naboo?
 
 EmmaWatson: I want to destroy you!
 
+Padmé: eh… what?!
+
+EmmaWatson: I am running "Madame Y Not" a.k.a "Madame Not Y" to
+Naboo's crown.
+
+Padmé: is she a citizen of Naboo?
+
+EmmaWatson: she claims she is.
+
 </s>
 
 <s id="the-possessing-spirit" title="The Possessing Spirit">
