@@ -69,6 +69,14 @@ Padmé: is she a citizen of Naboo?
 
 EmmaWatson: she claims she is.
 
+Padmé: I don't presume these are her real names.
+
+EmmaWatson: They are not.
+
+Padmé: Sounds fishy.
+
+[ Cut to the office of Daniel, Padmé's cousin and legal advisor. ]
+
 </s>
 
 <s id="the-possessing-spirit" title="The Possessing Spirit">
