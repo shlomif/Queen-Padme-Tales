@@ -347,7 +347,8 @@ end of the mlpfim 7th season).
 
 [ The first four Siths are sitting at Darth Vader's office playing
 <a href="https://en.wikipedia.org/wiki/Bohnanza">Bohnanza</a> with
-C-3PO and R2D2. ]
+<a href="https://starwars.fandom.com/wiki/C-3PO">C-3PO</a> and
+<a href="https://starwars.fandom.com/wiki/R2-D2">R2-D2</a>. ]
 
 Yoda: getting my ass kicked am I.
 
@@ -360,7 +361,7 @@ Padmé: hail me, heh.
 +++: So… what's up, guys? or should I say "what's up, Darths?"
 
 Anakin: heh… we got bored waiting for you so the six of us have been
-playing Bohnanza. R2 is winning [R2D2 emits a beep of approval.]
+playing Bohnanza. R2 is winning [R2-D2 emits a beep of approval.]
 
 +++: I should also note that I found a part-time, telecommuting, job as a
 <a href="https://github.com/shlomif/Freenode-programming-channel-FAQ/blob/master/FAQ_with_ToC__generated.md#what-is-the-difference-between-scripting-languages-such-as-perl-php-python-or-ruby-and-industrial-strength-languages-such-as-c-c-java-and-c">coder</a>. I don't really need the money, but it will give me something to do.
@@ -380,8 +381,7 @@ Vader: Yes, but he needed 200 ILS in cash to buy snacks.
 
 Padmé: did he get them?
 
-Vader: Yes, Emma Watson gave him 10,000 ILS in 100 * 100 ILS notes.
-In person.
+Vader: Yes, <a href="https://www.shlomifish.org/humour/bits/facts/Emma-Watson/">Emma Watson</a> gave him 10,000 ILS in 100 * 100 ILS notes. In person.
 
 Padmé: cool beans.
 
