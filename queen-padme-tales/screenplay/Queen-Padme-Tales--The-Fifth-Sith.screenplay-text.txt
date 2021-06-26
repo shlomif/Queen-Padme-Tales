@@ -68,7 +68,7 @@ Anakin: To quote <a href="https://www.shlomifish.org/philosophy/philosophy/putti
 +++: Anyway, if dating a jedi knight was a kink of yours, then I don't mind
 us parting ways as a couple.
 
-Padmé: Anakin: I have my share of kinks, but I wouldn't mind dating a plain Anakin Skywalker. I'm going to get <a href="https://stexpanded.fandom.com/wiki/Katie_Jacobson">Katie</a> to teleport you here.
+Padmé: Anakin: I have my share of kinks, but I wouldn't mind dating a plain Anakin Skywalker. I'm going to ask <a href="https://stexpanded.fandom.com/wiki/Katie_Jacobson">Katie</a> [= the name of a Q capable of teleportation.] to teleport you here.
 
 [ She opens a videochat to Katie. ]
 
@@ -92,7 +92,14 @@ Katie: ow.
 
 <s id="anakin-the-jedi" title="Anakin the Jedi">
 
-[ Anakin and Padmé enter Darth Vader’s office. ]
+[
+
+Anakin and Padmé enter Darth Vader’s office.
+
+<b>Note:</b> Anakin Skywalker and Darth Vader are two different characters
+in this screenplay.
+
+]
 
 Anakin: Hey Uncle Vader! Per the emails exchange I sent you, I have decided that
 my relationship with Padmé and my other friends and my emotional well-being are
