@@ -1,3 +1,71 @@
+# Queen Padmé Tales
+
+## Objective
+
+This ambitious series of screenplays breaks a long time taboo against
+writing *Star Wars* and *Star Trek* crossovers, but also aims to make
+the case for commercial yet free/open ( [Creative
+Commons](https://creativecommons.org/) / etc.) fan fiction / crossovers
+/ real person fiction (see e.g: [Our mission
+statement](../../philosophy/culture/case-for-commercial-fan-fiction/) )
+and screenplays written in easier to write formats than the draconian,
+finicky, and boring, Hollywood-blessed format.
+
+## Abstract
+
+While the birth parents of [Queen Padmé
+Amidala](https://en.wikipedia.org/wiki/Padm%C3%A9_Amidala) of the Naboo
+of [the
+Selinaverse](https://buffyfanfiction.fandom.com/wiki/Selinaverse) (
+[Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord) , b.
+1992) were killed in a starship crash when she was 1 years old, she was
+adopted by her aunt, the Archduchess Elizabeth Amidala ( [Natalie
+Portman](https://en.wikipedia.org/wiki/Natalie_Portman_filmography) ),
+and her aunt\'s husband Darth Vader, who volunteered to act as King in
+effect until Padme\'s coming of age. As a result, Padmé had a happy
+childhood until she turned 18 at 2010 and was ready to become the bona
+fide monarch of Naboo.
+
+Padme already learned enough about managing a planet country by
+volunteering to help Vader, and he encouraged her to do so. On the
+surface, she is happy:
+
+-   She is the richest person in Naboo and one of the richest women in
+    the galaxy.
+
+-   She has enough time to contribute on Internet content and code
+    sharing sites.
+
+-   She has many supporting friends, including her boyfriend Anakin
+    Skywalker ( [Jake Coco](https://www.youtube.com/jakecoco/about) ) a
+    promising Jedi-wannabe who is about her age, with aspirations for
+    joining the mysterious but revered jedi order of Siths, of which
+    only Vader and [Emperor
+    Palpatine](https://starwars.fandom.com/wiki/Darth_Sidious) are the
+    known extant members.
+
+In practice though, there is [the Sword of
+Damocles](https://en.wikipedia.org/wiki/Damocles) :
+
+-   Critics on online publications and social media who are unhappy with
+    every choice she makes.
+
+-   A poorly executed takeover attempt by a \"real life\" celebrity (
+    [Emma Watson](../bits/facts/Emma-Watson/) ) thought to be flawless.
+
+-   Her boyfriend being so busy with his studies that he becomes awfully
+    laconic even in his emails.
+
+-   Her spirit friends, who are animated characters from [*My Little
+    Pony: Friendship Is
+    Magic*](https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic_Wiki)
+    and other franchises, who appear at the seemingly least desirable
+    moments, and whom everyone can see, hear, photograph, and record,
+    but whom many people believe are some kind of trick.
+
+-   And her biggest pet peeve: her bank balance which keeps getting
+    larger, despite her many attempts to reduce it.
+
 # Queen Amidala vs. the Klingon Warriors (David and Goliath modernisation)
 
 This is an idea for a next logical evolution of
