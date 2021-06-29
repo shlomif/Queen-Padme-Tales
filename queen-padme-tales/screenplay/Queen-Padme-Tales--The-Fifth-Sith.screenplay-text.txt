@@ -15,7 +15,7 @@ and <a href="https://en.wikipedia.org/wiki/Spaceballs">Spaceballs</a>.
 This screenplay <b>is not</b> written in the Hollywood blessed format because
 <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/hacking-heroism.xhtml">good
 hackers (= resourceful and rule bending heroes)</a>
-which include the talented actors and actresses in this film can
+who include the talented actors and actresses in this film, can
 withstand reading a raw and non-CSS-styled XHTML5 file. That - and hackers like me
 do not have the time to massage a screenplay into Hollywood's whimsical
 format only to be rejected, rinse and repeat.
@@ -278,13 +278,13 @@ Twilight Sparkle: Good morning your majesty, rise and shine.
 
 +++: We're helping you with your research.
 
-[
+Padmé: whoa… how?
 
-.
-.
-.
+Twilight Sparkle: well, I'm programming a new task manager… <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=szabgab-about-yak-shaving">yak shaving</a>!
 
-]
+Starlight_Glimmer: And I'm browsing through academic knowledge bases.
+
+Rainbow_Dash: And I'm speed-reading through books.
 
 Discord: And I am running a sophisticated <a href="https://en.wikipedia.org/wiki/Deep_learning">deep learning</a> algorithm on this supercomputer.
 
@@ -302,7 +302,7 @@ Discord: wow! 1.21 peta-FLOPS.
 
 [The printer starts printing. Discord takes a page.]
 
-Discord: "One sith, two sith; red sith, blue sith" [ <a href="https://en.wikipedia.org/wiki/One_Fish,_Two_Fish,_Red_Fish,_Blue_Fish">Reference</a> ]
+Discord: "One sith, two siths; red sith, blue sith" [ <a href="https://en.wikipedia.org/wiki/One_Fish,_Two_Fish,_Red_Fish,_Blue_Fish">Reference</a> ]
 
 +++: "On the Internet, everyone knows you're a sith." [ <a href="https://www.shlomifish.org/humour.html#on_the_Internet">Reference</a> ]
 
@@ -310,7 +310,7 @@ Discord: "One sith, two sith; red sith, blue sith" [ <a href="https://en.wikiped
 
 +++: does not make a lot of sense, does it?
 
-[ <a href="https://buffyfanfiction.fandom.com/wiki/Q_(Selinaverse)">Q of the Selinaverse</a> rings the office's door bell. He is wearing a Star Fleet uniform ]
+[ <a href="https://buffyfanfiction.fandom.com/wiki/Q_(Selinaverse)">Q of the Selinaverse</a> rings the office's door bell. He is wearing a Star Fleet uniform. ]
 
 Padmé: Enter! … oh! Hi, Mr. Q. [they hug]
 
