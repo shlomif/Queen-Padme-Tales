@@ -179,8 +179,8 @@ Natalie: [to Tiffany] I knew you had it in you. [They hug].
 
 Wayne's voice from a different frame: Dude! This sucks.
 
-[ Split frame with Wayne and Garth
-<a href="https://en.wikipedia.org/wiki/Wayne%27s_World_(film)"><i>Wayne’s World</i></a>
+[ Split frame with Wayne and Garth (from
+<a href="https://en.wikipedia.org/wiki/Wayne%27s_World_(film)"><i>Wayne’s World</i></a>)
 sitting in an untidy room next to a computer screen.
 They are the plot programmers. ]
 
@@ -189,7 +189,7 @@ ethical hacking for PBS, and you come up with this??
 
 Garth: What's wrong with it?
 
-Wayne: It's the old missile-vs-melee paradigm! Thrown in a Star Wars / Star Trek
+Wayne: It's the old <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/what_is_hacking.xhtml">missile-vs-melee paradigm</a>! Thrown in a Star Wars / Star Trek
 crossover and "girl power" and stuff. Every 2nd hand fan fic writer could
 have written it in three days!
 
@@ -390,7 +390,7 @@ What should we do next?
 
 Padmé: [uses her smartphone. Shows Darth Vader on the screen]
 Hey uncle Vader! Guess what? We found the assassins and they
-have been reborn. We're going to chat with them and get some
+have been slain and reborn. We're going to chat with them and get some
 "intel" out about their clients. But tell aunt Liz to be
 the ceremonial female royal in the Jedi tournament instead
 of me.
@@ -519,7 +519,7 @@ Qui-Gon: I suggest you <a href="https://en.wikipedia.org/wiki/Fifth_Amendment_to
 
 Obi-Wan: you think I have five girlfriends?
 
-Gowron: Or more.
+Gowron: Or more!
 
 [ They laugh. ]
 
@@ -535,7 +535,8 @@ Gowron: Well, we jointly owe Robandy of the Orion syndicate 220 thousand
 dollars. He erased our bet deficit at <a href="https://memory-alpha.fandom.com/wiki/Quark%27s_Bar,_Grill,_Gaming_House_and_Holosuite_Arcade">Quark’s</a>
 in exchange for a one time interest.
 
-Padmé: 220,000 USD? Are you kidding? It is pocket change for me. I can SWIFT
+Padmé: 220,000 USD? Are you kidding? It is pocket change for me. I can
+<a href="https://en.wikipedia.org/wiki/Society_for_Worldwide_Interbank_Financial_Telecommunication">SWIFT</a>
 you 3 millions dollars to erase the bet, and have a fresh start.
 
 Worf: As a loan?
@@ -544,7 +545,7 @@ Padmé: Nah… as a present. I dislike keeping track of loans
 <a href="https://shlomifish.livejournal.com/1991.html">in my head</a>.
 These things
 <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time">tend to bounce back</a>
-anyway (unfortunately for me and my increasing bank balance).
+anyway (unfortunately for me and my increasing positive bank balance).
 
 +++: Please promise that you'll try to avoid getting drunk in the future,
 though. There are fruit juices, there are carbonated beverages, there are
@@ -685,7 +686,7 @@ Padmé: Perhaps…
 <s id="About-Worf-and-Gowron" title="About Worf and Gowron">
 
 Padmé: Well, let's talk about you. Mr. Worf, you had an illustrious career as a
-UFP Star Fleet officer while Mr. Gowron was a <a href="https://memory-alpha.fandom.com/wiki/Chancellor_of_the_Klingon_High_Council">Chancellor of the Klingon High Council</a>. Now you are family men, and also <a href="https://en.wikipedia.org/wiki/Mixed_martial_arts">MMA</a> fighters who together or alone hold several galactical records.
+UFP Star Fleet officer while Mr. Gowron was a <a href="https://memory-alpha.fandom.com/wiki/Chancellor_of_the_Klingon_High_Council">Chancellor of the Klingon High Council</a>. Now you are family men, and also <a href="https://en.wikipedia.org/wiki/Mixed_martial_arts">Mixed martial arts (MMA)</a> fighters who together or alone hold several galactical records.
 
 Worf: yes, do note that it is a step <a href="https://www.youtube.com/watch?v=oZoCmeXgE9U">sideways</a>, because we just <a href="https://www.youtube.com/watch?v=mpv8prvZufk">needed a change</a>. We might return or wage war in altogether different ways.
 
@@ -781,7 +782,7 @@ Worf: Greetings Queen Padmé Amidala of the Naboo! It turns out failing to assas
 
 +++: <a href="https://www.youtube.com/watch?v=eZQyVUTcpM4">Keep The Faith!</a>
 
-[ video finishes. Padmé "likes" it and posts a brief "Thank you! ♥!" reply. ]
+[ The video completes playing. Padmé "likes" it and posts a brief "Thank you! ♥!" reply. ]
 
 Padmé: computer: voice bank balance offset since before loan to Worf and Gowron.
 
@@ -789,7 +790,7 @@ Computer: Offset is a positive 12.7 million U.S. Dollars
 
 Padmé: rats!
 
-Jadzia Dax's Voice: [ <b>Note:</b> Jadzia is Worf's wife in the Selinaverse, and was invited by Padmé to help offset her wardrobe ] Hey, Padpad, which dress should I take from these two?
+Jadzia Dax's Voice: [ <b>Note:</b> Jadzia is Worf's wife in the Selinaverse, and was invited by Padmé to help offset her wardrobe ] Hey, Padmé, which dress should I take from these two?
 
 [ Padmé heads over. ]
 
