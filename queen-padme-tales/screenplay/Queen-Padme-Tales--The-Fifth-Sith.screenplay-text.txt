@@ -72,11 +72,11 @@ Were you aware of <a href="https://www.shlomifish.org/humour/Queen-Padme-Tales/Q
 
 [ Padmé pauses. ]
 
-Padmé’s Internal Dialogue: OK. Now calm down and d not send the email
+Padmé’s Internal Dialogue: OK. Now calm down and do not send the email
 
 [
 
-The cat steps on the keyboard resulting in noise.
+The cat steps on the keyboard resulting in keystroke noise.
 
 Padmé sends the E-mail by accident.
 
@@ -347,7 +347,7 @@ Padmé: fine, go ahead… I don't mind it <b>that</b> much.
 
 +++: anyway, Mr. Q, I've become a sith and I'm trying to figure out what being a sith entails.
 
-Q: well, Darth Padmé, let me give you a spoiler: a sith is a <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs">hacker king or a hacker queen</a>, which is a new name for a messiah, or <a href="https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/final-scene-with-Q-and-Sisko.xhtml">a Q in the Selinaverse's parlance</a>: an action hero that aims for world saviouring, being a shaker and mover, helping himself and others as well as enjoying himself at the same time, and letting no permanent obstacle stop him.
+Q: well, Darth Padmé, let me give you a spoiler: a sith is a <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacker-monarchs">hacker king or a hacker queen</a>, which is a new name for "a messiah", or <a href="https://www.shlomifish.org/humour/Star-Trek/We-the-Living-Dead/indiv-nodes/final-scene-with-Q-and-Sisko.xhtml">a "Q" in the Selinaverse's parlance</a>: an action hero that aims for world saviouring, being a shaker and mover, helping himself and others as well as enjoying himself at the same time, letting no permanent obstacle stop him, and expecting everyone to become siths as well.
 
 Padmé: thank you, Mr. Q!
 
