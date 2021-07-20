@@ -19,7 +19,7 @@ of [the
 Selinaverse](https://buffyfanfiction.fandom.com/wiki/Selinaverse) (
 [Tiffany Alvord](https://en.wikipedia.org/wiki/Tiffany_Alvord) , b.
 1992) were killed in a starship crash when she was 1 years old, she was
-adopted by her aunt, the Archduchess Elizabeth Amidala ( [Natalie
+adopted by her aunt, the Duchess Elizabeth Amidala ( [Natalie
 Portman](https://en.wikipedia.org/wiki/Natalie_Portman_filmography) ),
 and her aunt\'s husband Darth Vader, who volunteered to act as King in
 effect until Padme\'s coming of age. As a result, Padmé had a happy
