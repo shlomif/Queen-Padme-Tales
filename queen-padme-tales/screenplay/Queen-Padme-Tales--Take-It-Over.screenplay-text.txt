@@ -89,6 +89,31 @@ EmmaWatson: and I'm starting my campaign with the slogan "Queen Padmé royally s
 
 </s>
 
+<s id="Emma-Watson-health-diagnosis" title="EmmaWatson's Health Diagnosis">
+
+[
+
+Showing the 1 kilometre high hospital building in <a href="https://memory-alpha.fandom.com/wiki/Trill_(planet)">planet Trill</a>.
+
+Cut to a room there.
+
+]
+
+Julian Bashir: well, Ms. Watson seems in perfect health physically, but her
+mind is possesed by a spirit.
+
+Jadzia Dax: and it has a signature of the Beckyverse.
+
+Deanna Troi: from what I can sense, that spirit is not malevolent, just cursed and feels scared and trapped.
+
+Padmé: can we use technology to remove it?
+
+George the Cat: Unfortunately, it is beyond the reach of even the Q Continuum. (Plot device!)
+
++++: However, I suggest you consult with <a href="https://buffy.fandom.com/wiki/Enyos">Enyos of the Kalderash</a> from the Beckyverse. He may have some insights about psychological exorcism.
+
+</s>
+
 <s id="the-possessing-spirit" title="The Possessing Spirit">
 
 EmmaWatson: alright, alright, Madame Y Not a.k.a Madame Not Y, is not going to
