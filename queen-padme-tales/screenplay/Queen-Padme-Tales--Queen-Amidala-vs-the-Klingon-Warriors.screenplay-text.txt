@@ -110,6 +110,8 @@ British citizens, a favourite among Israelis, was Ayn Rand’s favourite, and mi
 
 </s>
 
+<s id="plan-to-throw-one-away" title="“Plan to throw one away”">
+
 <s id="filming-version-0.2.x" title="Filming Version 0.2.x">
 
 [Black screen.
@@ -128,7 +130,7 @@ Queen <a href="https://starwars.fandom.com/wiki/Padm%C3%A9_Amidala">Padmé Amida
 and his jedi mentor ( <a href="https://en.wikipedia.org/wiki/Qui-Gon_Jinn">Qui-Gon Jinn</a> ) guarding
 her with light sabers. On the ends there are two armoured but unarmed <a href="https://memory-alpha.fandom.com/wiki/Klingon">Klingon</a> warriors
 (Star Trek), <a href="https://memory-alpha.fandom.com/wiki/Worf">Worf</a> and <a href="https://memory-alpha.fandom.com/wiki/Gowron">Gowron</a>,
-who fight against a metric ton of &quot;throwaway&quot; lightsabered
+who fight against a metric ton of “throwaway” lightsabered
 jedi warriors who rush from the middle to try to take the malevolent Klingons
 out of the equation somehow. The Klingons have immense strength, agility, and
 stamina, and use basic and advanced martial arts tactics: kicking the jedis in
@@ -265,9 +267,10 @@ Natalie: sorry, everybody… [looks at Fluttershy and Rainbow Dash who float in 
 
 Rainbow Dash: No worries, Nat! We can make the scene at least 100% more awesome.
 
-Natalie: Right, Rainbow Dash [she pats her head.]. OK, everyone, we need to wait for the plot
-programmers to write the new version. We may still be able to reuse some of the
-filmed material, but probably we're going to have a lot of work to do.
+Natalie: Right, Rainbow Dash [she pats her head.]. OK, everyone, we need to
+wait for the plot programmers to write the new version. We may still be able to
+reuse some of the filmed material, but probably we're going to have a lot of
+work to do.
 
 +++: In the meanwhile, get changed to normal clothes, go home, and I'll give you guys
 3 day notices on all the relevant electronic media. Sorry.
@@ -297,12 +300,12 @@ Natalie: What do you want to eat?
 
 Tiffany: I think I'll have some noodles.
 
-Natalie: No problem! I know a nice general café/restaurant just across the road, with
-a large selection of noodles' dishes. Probably not authentic, but good enough
-for a Westerner.
+Natalie: No problem! I know a nice general café/restaurant just across the
+road, with a large selection of noodles' dishes. Probably not authentic, but
+good enough for a Westerner.
 
-+++: as for me, I think I ate too much at breakfast, so I think I'll have a juice or a soda
-or both, heh.
++++: as for me, I think I ate too much at breakfast, so I think I'll have a
+juice or a soda or both, heh.
 
 Tiffany: which ones?
 
@@ -347,6 +350,8 @@ I wouldn't mind George Lucas codirecting or coproducing this series in effect, b
 Portman seems better as a codirector (including as a presumed one).
 
 ]
+
+</s>
 
 </s>
 
@@ -489,9 +494,9 @@ Padmé: hi, sorry it took me so long - I have too much to wear…
 
 Worf: hah! I thought I'll never hear a lady say that!
 
-Padmé: yes, well: I have this offer where people can ask me to buy one T-shirt/etc.
-for them and one for myself if I like the design in their link. And I often do,
-and I hate to disappoint them, so…
+Padmé: yes, well: I have this offer where people can ask me to buy one
+T-shirt/etc.  for them and one for myself if I like the design in their link.
+And I often do, and I hate to disappoint them, so…
 
 Worf: well, frankly you look both more dashing and more authoritative
 now than in that ridiculous ceremonial robe! Heh…
@@ -568,7 +573,7 @@ Padmé: I should note that I was less lucky being unlucky at Quark’s.
 Obi-Wan: you mean… you tried to lose money?
 
 Padmé: Yeah… first I tried to make the most atrociously atrocious predictions
-at his "Stock Exchange of The Profiles" and… most of them materialised.
+at his <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-of-the-stock-exchange-of-the-gods-in-the-Selinaverse">"Stock Exchange of The Profiles"</a> and… most of them materialised.
 
 [ Obi-Wan smiles. ]
 
@@ -585,7 +590,7 @@ Gowron and Worf: hah hah… [they gently pat Padmé’s shoulders.]
 
 Padmé: Anyway, the other gamblers quickly followed my lead, so Quark
 lost a lot of money that day. I felt sorry for him so I volunteered
-to offset his bet as a gift. Then people on social media and mainstream
+to offset his losses as a gift. Then people on social media and mainstream
 media accused me of being addicted to gambling. I am not, but I
 decided to avoid that just to please them.
 
@@ -696,7 +701,7 @@ Padmé: sure, even my grandparents, the king of Naboo, and his wife (who is a Je
 
 Gowron: Well, Worf and I are still figuring out the rules… <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml">the guidelines</a>! … as we run into them, heh.
 
-+++: But here is some advice: try to <a href="https://twitter.com/shlomif/status/1394277859561283586">know (= educate/entertain)</a> your opponent. Before the fight, we invite them for a drink and talk about stuff we both like: video shows, comics, films, literature, software dev (a bottomless pit, I admit), internet memes, songs, etc. We want to get them to like us and vice versa, and develop a general fuzzy model of their personality.
++++: But here is some advice: try to <a href="https://twitter.com/shlomif/status/1394277859561283586">know (= be educated/entertained)</a> your opponent. Before the fight, we invite them for a drink and talk about stuff we both like: video shows, comics, films, literature, software dev (a bottomless pit, I admit), internet memes, songs, etc. We want to get them to like us and vice versa, and develop a general fuzzy model of their personality.
 
 +++: Muhammad Ali, who was a great warrior in his day reportedly said <a href="http://www.quotationspage.com/quote/413.html">"My toughest fight was with my first wife."</a>,
 and we suspect it was because he ended up taking her too much for granted.
