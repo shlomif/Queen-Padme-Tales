@@ -118,6 +118,26 @@ George the Cat: Unfortunately, it is beyond the reach of even the Q Continuum. (
 
 </s>
 
+<s id="talk-with-Enyos-about-helping-EmmaWatson" title="Talk with Enyos">
+
+[ Padmé's computer says "Initiating Selinaverse⬄Beckyverse bridge"
+and after a while shows Enyos' face wearing a <a href="https://en.wikipedia.org/wiki/Straw_hat">straw hat</a> and
+a smaller live recording of EmmaWatson of the Beckyverse.]
+
+Padmé: hey Enyos and Emma! Thanks for agreeing to talk with me on such
+a short notice.
+
+Enyos: No problem, your majesty.
+
+EmmaWatson of the Beckyverse: yeah! I've been feeling the heat from the
+Selinaverse's EmmaWatson too.
+
+Padmé: OK, what do you suggest to do about the possessing spirit?
+
+Enyos: Well, psychologically, a possession is no different than a
+
+</s>
+
 <s id="the-possessing-spirit" title="The Possessing Spirit">
 
 EmmaWatson: alright, alright, Madame Y Not a.k.a Madame Not Y, is not going to
