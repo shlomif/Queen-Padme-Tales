@@ -148,6 +148,20 @@ Enyos: heh, that's a custom that <a href="https://memory-alpha.fandom.com/wiki/A
 
 </s>
 
+<s id="proving-Padme-will-win" title="Proving Padmé Will Probably Win">
+
+EmmaWatson: Hey! Did you want to see me?
+
+Padmé: Yes, Emma! See - we conducted an online poll using open source
+software with <a href="https://en.wikipedia.org/wiki/Proof_assistant">proved
+correctness</a> and over 90 percent of Naboo's voters took part in. Out of
+them, over 98% noted they intend to vote <b>and</b> vote for me.
+
++++: So the bottom line is that Madame Y Not is problaly not going
+to be elected barring demonic/etc. intervention.
+
+</s>
+
 <s id="the-possessing-spirit" title="The Possessing Spirit">
 
 EmmaWatson: alright, alright, Madame Y Not a.k.a Madame Not Y, is not going to
