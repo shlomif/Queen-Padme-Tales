@@ -250,7 +250,7 @@ audience.
 
 [ Dukat shows a 100 dollar bill. ]
 
-Dukat: Welcome to the next logical step after <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-of-Gul-Dukat-in-the-Selinaverse">Gul Dukat Live on Bajor.</a>! "Gul Dukat live on meta-Planet-1"! The lovely Christina Grimmie and I will start with a rock cover of <a href="https://www.youtube.com/watch?v=6TjX5r37V0Q">"Sesame Street: What's The Name Of That Song?"</a>.
+Dukat: Welcome to the next logical step after <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-story-of-Gul-Dukat-in-the-Selinaverse">Gul Dukat Live on Bajor.</a>! "Gul Dukat live on meta-Planet-1"! The lovely Christina Grimmie and I will start with a rock cover of <a href="https://www.youtube.com/watch?v=6TjX5r37V0Q">Sesame Street's "What's The Name Of That Song?"</a>.
 
 [The rays start playing but then stop.]
 
