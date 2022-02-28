@@ -58,20 +58,20 @@ TODO: FILL IN.
 
 Padmé: so, Emma, what brings you to Naboo?
 
-EmmaWatson: I want to destroy you!
+Emma Watson: I want to destroy you!
 
 Padmé: eh… what?!
 
-EmmaWatson: I am running "Madame Y Not" a.k.a "Madame Not Y" to
+Emma Watson: I am running "Madame Y Not" a.k.a "Madame Not Y" to
 Naboo's crown.
 
 Padmé: is she a citizen of Naboo?
 
-EmmaWatson: she claims she is.
+Emma Watson: she claims she is.
 
 Padmé: I don't presume these are her real names.
 
-EmmaWatson: They are not.
+Emma Watson: They are not.
 
 Padmé: Sounds fishy.
 
@@ -85,11 +85,11 @@ Padmé and I are passionate about trimming the Naboo's bylaws from
 
 Padmé: well, I'm running for the crown again.
 
-EmmaWatson: and I'm starting my campaign with the slogan "Queen Padmé royally sucks! Vote 'Madame Y Not'!"
+Emma Watson: and I'm starting my campaign with the slogan "Queen Padmé royally sucks! Vote 'Madame Y Not'!"
 
 </s>
 
-<s id="Emma-Watson-health-diagnosis" title="EmmaWatson's Health Diagnosis">
+<s id="Emma-Watson-health-diagnosis" title="Emma Watson's Health Diagnosis">
 
 [
 
@@ -118,19 +118,19 @@ George the Cat: Unfortunately, it is beyond the reach of even the Q Continuum. (
 
 </s>
 
-<s id="talk-with-Enyos-about-helping-EmmaWatson" title="Talk with Enyos">
+<s id="talk-with-Enyos-about-helping-Emma-Watson" title="Talk with Enyos">
 
 [ Padmé's computer says "Initiating Selinaverse⬄Beckyverse bridge"
 and after a while shows Enyos' face wearing a <a href="https://en.wikipedia.org/wiki/Straw_hat">straw hat</a> and
-a smaller live recording of EmmaWatson of the Beckyverse.]
+a smaller live recording of Emma Watson of the Beckyverse.]
 
 Padmé: hey Enyos and Emma! Thanks for agreeing to talk with me on such
 a short notice.
 
 Enyos: No problem, your majesty.
 
-EmmaWatson of the Beckyverse: yeah! I've been feeling the heat from the
-Selinaverse's EmmaWatson too.
+Emma Watson of the Beckyverse: yeah! I've been feeling the heat from the
+Selinaverse's Emma Watson too.
 
 Padmé: OK, what do you suggest to do about the possessing spirit?
 
@@ -150,7 +150,7 @@ Enyos: heh, that's a custom that <a href="https://memory-alpha.fandom.com/wiki/A
 
 <s id="proving-Padme-will-win" title="Proving Padmé Will Probably Win">
 
-EmmaWatson: Hey! Did you want to see me?
+Emma Watson: Hey! Did you want to see me?
 
 Padmé: Yes, Emma! See - we conducted an online poll using open source
 software with <a href="https://en.wikipedia.org/wiki/Proof_assistant">proved
@@ -164,24 +164,24 @@ to be elected barring demonic/etc. intervention.
 
 <s id="the-possessing-spirit" title="The Possessing Spirit">
 
-EmmaWatson: alright, alright, Madame Y Not a.k.a Madame Not Y, is not going to
+Emma Watson: alright, alright, Madame Y Not a.k.a Madame Not Y, is not going to
 run for Naboo's Queen.'
 
-[ An amorphous blob gets out of EmmaWatson's body. <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>, dressed as Sherlock Holmes appears and cages it. ]
+[ An amorphous blob gets out of Emma Watson's body. <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>, dressed as Sherlock Holmes appears and cages it. ]
 
-EmmaWatson: oh my goodness,… What was happening to me? I wouldn't run a mystery woman for Naboo's crown… hell, on normal days I'll even refuse running for the UK or <a href="https://www.youtube.com/watch?v=DGXx56WqqJw">French</a> parliaments.
+Emma Watson: oh my goodness,… What was happening to me? I wouldn't run a mystery woman for Naboo's crown… hell, on normal days I'll even refuse running for the UK or <a href="https://www.youtube.com/watch?v=DGXx56WqqJw">French</a> parliaments.
 
 [ Looks at the caged blob. ]
 
-EmmaWatson: What the hell is that?
+Emma Watson: What the hell is that?
 
 Discord: elementary, Ms. Watson, my darling, <a href="https://www.phrases.org.uk/meanings/elementary-my-dear-watson.html">elementary</a>! [ He blows some bubbles out of a soap bubbles' pipe]
 
-EmmaWatson: pray continue with your narrative, Mr. Discord!
+Emma Watson: pray continue with your narrative, Mr. Discord!
 
 Discord: What we see here is a quad-thermal, meta-tachionic, temporally phenomenic, geodesic, tri-phasic…
 
-EmmaWatson: any idea what it all means?
+Emma Watson: any idea what it all means?
 
 Discord: <a href="https://ozyandmillie.org/comic/ozy-and-millie-1308/">not the slightest</a>!
 
@@ -189,7 +189,7 @@ Discord: <a href="https://ozyandmillie.org/comic/ozy-and-millie-1308/">not the s
 
 Pinkie Pie: Whoa! What happened? Wait… I recall taking a guided tour of <a href="https://buffyfanfiction.fandom.com/wiki/Beckyverse">Beckyverse</a>, then reading an ancient curse, and then:
 
-+++: I possessed EmmaWatson's body and… [starts crying] ran for Naboo's crown. [ She weeps. ]
++++: I possessed Emma Watson's body and… [starts crying] ran for Naboo's crown. [ She weeps. ]
 
 [
 
@@ -203,7 +203,7 @@ Fluttershy emerges.
 
 Fluttershy: oh, Pinkie, how could you?
 
-EmmaWatson: And that will teach me to not pick up <a href="https://www.youtube.com/watch?v=MkElfR_NPBI">books with a strange glow</a> from old book stores in London.
+Emma Watson: And that will teach me to not pick up <a href="https://www.youtube.com/watch?v=MkElfR_NPBI">books with a strange glow</a> from old book stores in London.
 
 Padmé: Discord, was that your orchestration?
 
@@ -213,7 +213,7 @@ Padmé: OK, Emma, let me blog that the whole crisis is hopefully over; it harmed
 your online/offline presence more than it harmed Naboo, but it did uncover some
 loopholes in the Naboo policies.
 
-EmmaWatson: yeah! <a href="https://en.wikipedia.org/wiki/Samson">the sweet emerged from the mighty</a>.
+Emma Watson: yeah! <a href="https://en.wikipedia.org/wiki/Samson">the sweet emerged from the mighty</a>.
 
 </s>
 

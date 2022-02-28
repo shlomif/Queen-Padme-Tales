@@ -291,7 +291,7 @@ Enter. Her vision becomes blurry and she falls asleep. ]
 [
 
 Padmé is in her office sleeping with a wide smile on her face. She wakes up,
-stretches her arms and then sees four spirit friends: <a href="https://mlp.fandom.com/wiki/Twilight_Sparkle">Twilight Sparkle</a>, <a href="https://mlp.fandom.com/wiki/Starlight_Glimmer">Starlight_Glimmer</a>, <a href="https://mlp.fandom.com/wiki/Rainbow_Dash">Rainbow_Dash</a> and <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>.
+stretches her arms and then sees four spirit friends: <a href="https://mlp.fandom.com/wiki/Twilight_Sparkle">Twilight Sparkle</a>, <a href="https://mlp.fandom.com/wiki/Starlight_Glimmer">Starlight Glimmer</a>, <a href="https://mlp.fandom.com/wiki/Rainbow_Dash">Rainbow Dash</a> and <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>.
 
 ]
 
@@ -305,9 +305,9 @@ Padmé: whoa… how?
 
 Twilight Sparkle: well, I'm programming a new task manager… <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=szabgab-about-yak-shaving">yak shaving</a>!
 
-Starlight_Glimmer: And I'm browsing through academic knowledge bases.
+Starlight Glimmer: And I'm browsing through academic knowledge bases.
 
-Rainbow_Dash: And I'm speed-reading through books.
+Rainbow Dash: And I'm speed-reading through books.
 
 Discord: And I am running a sophisticated <a href="https://en.wikipedia.org/wiki/Deep_learning">deep learning</a> algorithm on this supercomputer.
 
