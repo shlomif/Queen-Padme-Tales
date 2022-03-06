@@ -191,7 +191,7 @@ ethical hacking for PBS, and you come up with this??
 
 Garth: What's wrong with it?
 
-Wayne: It's the old <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/what_is_hacking.xhtml">missile-vs-melee paradigm</a>! Thrown in a Star Wars / Star Trek
+Wayne: It's the old <a href="http://shlomifishswiki.branchable.com/Missiles_vs_Melee_Motif/">missile-vs-melee paradigm</a>! Thrown in a Star Wars / Star Trek
 crossover and "girl power" and stuff. Every 2nd hand fan fic writer could
 have written it in three days!
 
