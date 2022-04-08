@@ -610,6 +610,8 @@ and resent you. And there is <a href="https://www.shlomifish.org/philosophy/cult
 
 <s id="how-the-assassination-was-foiled" title="How the assassination was foiled">
 
+<s id="how-the-assassination-was-foiled--part1" title="How the assassination was foiled: Part 1">
+
 Padmé: I should note that that was the first attempt to assassinate me, and
 your wives turned you in many days ago, and cooperated with the Selinaverse's
 intelligence community.
@@ -630,6 +632,10 @@ Gowron: We're sorry, your majesty…
 
 Padmé: no worries… it was actually quite exciting. "War is good for business; peace is good for business." like <a href="https://memory-beta.fandom.com/wiki/Ferengi_Rules_of_Acquisition">The Ferengi Rules of Acquisition</a> go.
 
+</s>
+
+<s id="guards-for-Princess-Twilight-Sparkle-castle" title="Guards for Princess Twilight Sparkle's castle">
+
 Worf: Speaking of guards, Rainbow Dash: can you tell us why <a href="https://mlp.fandom.com/wiki/Twilight_Sparkle">Princess Twilight Sparkle</a>'s castle does not have guards as opposed to Celestia's and Luna's?
 
 [ Twilight Sparkle appears out of thin air. ]
@@ -647,6 +653,8 @@ Gowron: hah! If I may interrupt you, your highness… even Queen Elizabeth II do
 +++: You can say that volunteers may patrol your castle voluntarily, and request as much money as they wish after giving their reports, and you'll give them as much as you think they deserve.
 
 Twilight Sparkle: I guess you're right. That will simplify matters considerably.
+
+</s>
 
 </s>
 
