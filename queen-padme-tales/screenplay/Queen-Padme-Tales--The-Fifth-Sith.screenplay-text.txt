@@ -38,16 +38,6 @@ made available under the <a href="http://creativecommons.org/licenses/by/4.0/">C
 
 </s>
 
-<s id="dedication" title="Dedication">
-
-[
-
-The <b>Dedication</b>:
-
-]
-
-</s>
-
 </s>
 
 <s id="main-scene" title="Main Scene">
@@ -454,6 +444,16 @@ starts playing and the characters from the Queen Padmé Tales series start
 dancing or swaying to it.
 
 The End.
+
+]
+
+</s>
+
+<s id="dedication" title="Dedication">
+
+[
+
+The <b>Dedication</b>:
 
 ]
 
