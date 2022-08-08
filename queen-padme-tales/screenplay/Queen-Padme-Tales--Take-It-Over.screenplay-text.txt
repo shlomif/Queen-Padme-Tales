@@ -106,7 +106,7 @@ are there.
 Julian Bashir: well, Ms. Watson seems in perfect health physically, but her
 mind is possesed by a spirit.
 
-Jadzia Dax: and it has a signature of the Beckyverse.
+Jadzia Dax: and it has a signature of the <a href="https://buffyfanfiction.fandom.com/wiki/Beckyverse">Beckyverse</a>.
 
 Deanna Troi: from what I can sense, that spirit is not malevolent, just cursed and feels scared and trapped.
 
@@ -134,7 +134,7 @@ Selinaverse's Emma Watson too.
 
 Padmé: OK, what do you suggest to do about the possessing spirit?
 
-Enyos: Well, psychologically, a possession is no different from a natural
+Enyos: Well, psychologically, a possession is not different from a natural
 but irrational obsession. An effective way of dealing with it is to
 prove to the obsessed that he or she cannot reasonably achieve what they wish.
 
@@ -158,14 +158,14 @@ correctness</a> and over 90 percent of Naboo's voters took part in. Out of
 them, over 98% noted they intend to vote <b>and</b> vote for me.
 
 +++: So the bottom line is that Madame Y Not is probably not going
-to be elected barring demonic/etc. intervention.
+to be elected, barring demonic/etc. intervention.
 
 </s>
 
 <s id="the-possessing-spirit" title="The Possessing Spirit">
 
 Emma Watson: alright, alright, Madame Y Not a.k.a Madame Not Y, is not going to
-run for Naboo's Queen.'
+run for Naboo's crown.
 
 [ An amorphous blob gets out of Emma Watson's body. <a href="https://mlp.fandom.com/wiki/Discord">Discord</a>, dressed as <a href="https://en.wikipedia.org/wiki/Sherlock_Holmes#/media/File:Strand_paget.jpg">Sherlock Holmes</a> appears and cages it. ]
 
@@ -196,6 +196,10 @@ Pinkie Pie: Whoa! What happened? Wait… I recall taking a guided tour of <a hre
 <img src="images/crying_pinkie__by_freefraq_d4mey7s--resized.webp" alt="Crying Pinkie Pie" />
 
 ( <a href="https://www.deviantart.com/freefraq/art/Crying-Pinkie-279513784">Crying Pinkie Pie</a>. )
+
+]
+
+[
 
 <a href="https://mlp.fandom.com/wiki/Fluttershy">Fluttershy</a> emerges.
 
@@ -263,7 +267,7 @@ and
 
 ]
 
-Cookie Monster: Greetings, Dukat! Me cookies are bothered by your loud noises
+Cookie Monster: Greetings, Mr. Dukat! Me cookies are bothered by your loud noises
 [The cookies' muppets muffle soft noises to voice their agreement with the protest.]
 So we prepared in advance an exact replica of Naboo without any living
 cells, and the same shape, and rays-deflecting behaviour.
