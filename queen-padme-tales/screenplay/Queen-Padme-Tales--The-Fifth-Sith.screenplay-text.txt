@@ -363,6 +363,8 @@ end of the mlpfim 7th season).
 
 </s>
 
+</s>
+
 <s id="Padme-multiplies" title="Padme multiplies-dash-lang-dot-org">
 
 [ The first four Siths are sitting at Darth Vader's office playing
@@ -456,8 +458,6 @@ The End.
 The <b>Dedication</b>:
 
 ]
-
-</s>
 
 </s>
 
