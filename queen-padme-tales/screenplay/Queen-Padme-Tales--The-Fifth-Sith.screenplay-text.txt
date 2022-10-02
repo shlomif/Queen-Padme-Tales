@@ -301,7 +301,11 @@ Rainbow Dash: And I'm speed-reading through books.
 
 Discord: And I am running a sophisticated <a href="https://en.wikipedia.org/wiki/Deep_learning">deep learning</a> algorithm on this supercomputer.
 
-[ Showing an antique reel to reel computer not unlike <a href="https://web.archive.org/web/20060212045358/http://www.bell-labs.com/history/unix/firstport.html">the PDP-11</a> ]
+[ Showing an antique reel to reel computer not unlike <a href="https://web.archive.org/web/20060212045358/http://www.bell-labs.com/history/unix/firstport.html">the PDP-11</a>
+
+<img alt="UNIX work on a PDP-11" src="images/unix-pdp11--kd14.webp" />
+
+]
 
 Discord: and it runs at a whopping 1,200 micro-FLOPS.
 
