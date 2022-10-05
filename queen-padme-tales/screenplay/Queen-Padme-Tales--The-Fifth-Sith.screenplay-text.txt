@@ -455,6 +455,17 @@ The End.
 
 </s>
 
+<s id="credits" title="Image Credits">
+
+[
+
+*
+<a href="https://web.archive.org/web/20060212045358/http://www.bell-labs.com/history/unix/firstport.html">PDP-11 photo taken from the UNIX history pages at bell-labs.com</a>
+
+]
+
+</s>
+
 <s id="dedication" title="Dedication">
 
 [
