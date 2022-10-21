@@ -56,6 +56,16 @@ TODO: FILL IN.
 
 <s id="mystery-woman-for-the-crown" title="Mystery Woman for Naboo's Crown">
 
+[
+
+Padmé is sitting in her office next to her desktop computer.
+
+]
+
+Receptionist on a popup window: Your majesty, <a href="https://www.shlomifish.org/humour/bits/facts/Emma-Watson/">Ms. Emma Watson</a> is here and wishes to see you.
+
+Padmé: please send her in.
+
 Padmé: so, Emma, what brings you to Naboo?
 
 Emma Watson: I want to destroy you!
