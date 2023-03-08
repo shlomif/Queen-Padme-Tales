@@ -241,7 +241,7 @@ from <a href="https://en.wikipedia.org/wiki/Schadenfreude">Schadenfreude</a>.
 Wayne: OK, not ideal but we can work with that.
 
 +++: Anyway, you do realise that one of these "throwaway" jedi knights could
-just hurl his lightsaber at the Klingon warrior throat like a spear, right?
+just hurl his lightsaber at the Klingon warrior’s throat like a spear, right?
 
 [ The 5 main actors and Natalie seem contemplative. ]
 
@@ -390,7 +390,7 @@ Will this be acceptable?
 [ Worf and Gowron smile, then laugh, open their eyes and are
 relieved. ]
 
-Gowron: you were a truly worthy opponent your majesty!
+Gowron: you were a truly worthy opponent, your majesty!
 What should we do next?
 
 Padmé: [uses her smartphone. Shows Darth Vader on the screen]
@@ -476,7 +476,7 @@ the unlikely case that there are going to be more assassins.
 [
 
 Worf, Gowron, Obi-Wan, Qui-Gon, Big Mac and Rainbow Dash are at the
-café. Worf and Gowron are reading Padmé’s FAQ on tablets and are laughing
+café. Worf and Gowron are reading Padmé’s FAQ on tablets, and are laughing
 and discussing it with the others. Worf is wearing glasses.
 
 Padmé approaches them wearing a captioned T-shirt, trousers, and
@@ -503,7 +503,7 @@ now than in that ridiculous ceremonial robe! Heh…
 
 Gowron: I agree!
 
-Padmé: thank you! On the other hand, most Jedis (both men and women)
+Padmé: thank you! On the other hand, most jedis (both men and women)
 like their uniforms… misery!
 
 Gowron: really? How so?
@@ -646,7 +646,7 @@ Worf: Likewise, your highness!
 
 Padmé: [frustrated] Twilie!
 
-Twilight Sparkle: heh heh… anyway, there has been interest by someponies in becoming guards at my castle, but I'll need to fulfil so many prerequisites: define patrol routes, anti-discrimination hiring policies, wage rates, code of conduct, design uniforms, vacation days and holidays, catering, dental…
+Twilight Sparkle: heh heh… anyway, there has been interest by someponies in becoming guards at my castle, but I'll need to fulfil so many prerequisites: define patrol routes, anti-discrimination hiring policies, wage rates, code of conduct, uniforms’ design, vacation days and holidays, catering, dental…
 
 Gowron: hah! If I may interrupt you, your highness… even Queen Elizabeth II does not <a href="https://www.manchestereveningnews.co.uk/news/greater-manchester-news/guest-honour-queen-leaves-couple-685253">bring her ridiculous guards to weddings she attends in Manchester</a>. If someone tries to assassinate you, you have been doing something wrong.
 
@@ -672,7 +672,7 @@ Padmé: well, his name is Anakin Skywalker. People rant about him all over the s
 
 +++: The worst part about him is that after we both got our Computer Science B.Sc's, he decided to go to Jedi school, and he's been stuck there for over 2 years now, and he's become so busy that he started taking our relationship for granted.
 
-Gowron: Jedi-training programs can reportedly be completed in under a year [ Qui-Gon nods], and it is a crime to take a relationship with a beautiful warrior such as yourself for granted! You have your needs, for once…
+Gowron: Jedi-training programs can reportedly be completed in under a year [Qui-Gon nods], and it is a crime to take a relationship with a beautiful warrior such as yourself for granted! You have your needs, for once…
 
 Padmé: Oh, I have my needs all-right! Only my physical needs are not a problem…
 
@@ -709,7 +709,7 @@ Padmé: sure, even my grandparents, the king of Naboo, and his wife (who is a Je
 
 Gowron: Well, Worf and I are still figuring out the rules… <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml">the guidelines</a>! … as we run into them, heh.
 
-+++: But here is some advice: try to <a href="https://twitter.com/shlomif/status/1394277859561283586">know (= be educated/entertained)</a> your opponent. Before the fight, we invite them for a drink and talk about stuff we both like: video shows, comics, films, literature, software dev (a bottomless pit, I admit), internet memes, songs, etc. We want to get them to like us and vice versa, and develop a general fuzzy model of their personality.
++++: But here is some advice: try to <a href="https://twitter.com/shlomif/status/1394277859561283586">know (= be educated/entertained)</a> your opponent. Before the fight, we invite them for a drink and talk about stuff we both like: video shows, comics, films, literature, software dev (a bottomless pit, I admit), Internet memes, songs, etc. We want to get them to like us and vice versa, and develop a general fuzzy model of their personality.
 
 +++: Muhammad Ali, who was a great warrior in his day, reportedly said <a href="http://www.quotationspage.com/quote/413.html">"My toughest fight was with my first wife."</a>,
 and we suspect it was because he ended up taking her too much for granted.
