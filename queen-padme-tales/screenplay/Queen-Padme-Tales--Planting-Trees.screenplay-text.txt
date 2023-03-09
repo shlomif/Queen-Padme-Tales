@@ -157,7 +157,7 @@ common misconception, was also likely implemented in
 <a href="https://www.geekwire.com/2011/top-10-reasons-darth-vader-amazing-project-manager/">Nazi Germany</a> despite their insistence on following
 orders (but often to awful consequences).
 
-+++: That doesn't mean you shouldn't <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/hacking-heroism.xhtml">"hack"</a>. On the contrary:
++++: That doesn't mean you shouldn't <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacking-heroism">"hack"</a>. On the contrary:
 know your strengths and weaknesses, ask others for help,
 think outside the box, be resourceful, and aim to be the best
 you can given the time.
