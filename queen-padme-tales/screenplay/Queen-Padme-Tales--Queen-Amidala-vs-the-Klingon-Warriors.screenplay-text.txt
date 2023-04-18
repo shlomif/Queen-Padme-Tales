@@ -727,7 +727,7 @@ and we suspect it was because he ended up taking her too much for granted.
 Padmé: I should note that I invited your wives, to help me beta test a new
 clothes selector product by me giving them clothes.
 
-Worf: yes, they complain they don't have enough to wear.
+Worf: yes, they complain that they don't have enough to wear.
 
 Padmé: Yes, it is really <a href="https://en.wikipedia.org/wiki/Sabrina_the_Teenage_Witch_(1996_TV_series)#Opening_sequence">Sabrina-style</a>. I was offered early access and accepted, and ended up finding a few bugs. They were fixed.
 
@@ -775,7 +775,7 @@ Padmé: yeah - well <a href="https://en.wikipedia.org/w/index.php?title=The_pen_
 
 +++: and Obi-Wan, you probably noticed them <a href="https://www.shlomifish.org/humour/Selina-Mandrake/ongoing-text.html#kate-s-assignment">bitching</a> about the whole situation.
 
-Obi-Wan: I did, yes. Wow! And I thought my (one and only, hah!) girlfriend was bad. Do note, however that I kindof am attracted to the bitching type. One of my many kinks. While my friends are attracted to everything that moves, I see no reason to limit myself ( <a href="https://www.amazon.com/Best-Things-Anybody-Ever-Said/dp/0743235797/ref=sr_1_1">Reference</a> ).
+Obi-Wan: I did, yes. Wow! And I thought my (one and only, hah!) girlfriend was bad. Do note, however that I kindof am attracted to the bitching type. One of my many kinks. While my friends are attracted to everything that moves, I see no reason to limit myself. [ <a href="https://www.amazon.com/Best-Things-Anybody-Ever-Said/dp/0743235797/ref=sr_1_1">Reference</a> ]
 
 </s>
 
@@ -789,7 +789,7 @@ system.
 
 ]
 
-Worf: Greetings Queen Padmé Amidala of the Naboo! It turns out failing to assassinate you has had a much better financial outcome for us than if we'd have succeeded. Aside from your preliminary gift, we got so much publicity, and made a lot of money from relicensing pledges, merchandise, selling higher quality media, and interviews / collabs ( <a href="https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/">Reference</a> ). The publicity has been good as well.
+Worf: Greetings Queen Padmé Amidala of the Naboo! It turns out failing to assassinate you has had a much better financial outcome for us than if we'd have succeeded. Aside from your preliminary gift, we got so much publicity, and made a lot of money from relicensing pledges, merchandise, selling higher quality media, and interviews / collabs [ <a href="https://www.shlomifish.org/philosophy/computers/web/models-for-commerce/">Reference</a> ]. The publicity has been good as well.
 
 +++: Anyway, we respected your wish to help sustain your bank balance, but we donated to some charities that you endorse. And we always can be reached - whether online or offline - either by you, or by anybody else.
 
