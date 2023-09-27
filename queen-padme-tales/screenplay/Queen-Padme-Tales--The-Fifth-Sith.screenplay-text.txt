@@ -13,7 +13,7 @@ the real world online/offline life in 2010s/2020s,
 and <a href="https://en.wikipedia.org/wiki/Spaceballs">Spaceballs</a>.
 
 This screenplay <b>is not</b> written in the Hollywood blessed format because
-<a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/hacking-heroism.xhtml">good
+<a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacking-heroism">good
 hackers (= resourceful and rule bending heroes)</a>
 who include the talented actors and actresses in this film, can
 withstand reading a raw and non-CSS-styled XHTML5 file. That - and hackers like me
@@ -85,11 +85,13 @@ Padmé: Anakin: I have my share of kinks, but I wouldn't mind dating a plain Ana
 
 [ She opens a videochat to Katie. ]
 
-Padmé: Hey Katie! Can you bring my boyfriend, Anakin, here? He has quit Jedi school.
+Padmé: Hey Katie! Can you bring my boyfriend, Anakin, here in about 10 minutes? He has quit Jedi school.
 
-Katie: Hey Padmé! Sure, getting to it.
+Katie: Hey Padmé! Sure, I'll get to it.
 
-[ Padmé gets out of her office to the corridor.
+[ Cut.
+
+Padmé gets out of her office to the corridor.
 
 A portal opens and Anakin and Katie step out.
 
@@ -149,7 +151,7 @@ have I. "Master Darth Yoda" call me you can. Or just plain "Yoda"." ]
 
 Anakin: way cool! But shouldn't Darth Yoda be the first Sith then?
 
-Yoda: Matters not Sith number, <a href="https://memory-alpha.fandom.com/wiki/Little_Green_Men_(episode)">as much as short-term quarterly gains.</a>
+Yoda: Sith number matters not, <a href="https://memory-alpha.fandom.com/wiki/Little_Green_Men_(episode)">as much as short-term quarterly gains.</a>
 
 Vader: Do note, however that there are now <b>five</b> Siths.
 
@@ -167,7 +169,7 @@ Padmé: I wonder what kissing a Sith feels like.
 
 Yoda: Go forth and multiply-lang.org ! [ <a href="https://twitter.com/shlomif/status/880376410820542466">Reference</a> ]
 
-Padmé: Why thank you! Do note that Anakin and I are not in the rush to multiply-dash-lang-dot-org given the prematurity of our relationship.
+Padmé: Why, thank you! Do note that Anakin and I are not in the rush to multiply-dash-lang-dot-org given the prematurity of our relationship.
 
 +++: Just for the record, we have reached <a href="https://explainxkcd.com/wiki/index.php/540:_Base_System">4th base</a> ("home run"? not too big into baseball).
 
@@ -228,7 +230,6 @@ Caption: "Later that night"
 Padmé and Anakin are in Padmé's bedroom.
 
 ]
-
 
 Padmé: wow, that was… great!
 
@@ -380,7 +381,7 @@ Yoda: getting my ass kicked am I.
 
 [ Padmé enters. ]
 
-The four siths: hail Darth Padmé!
+The first four siths: hail Darth Padmé!
 
 Padmé: hail me, heh. [Inspired by <a href="https://en.wikipedia.org/wiki/To_Be_or_Not_to_Be_%281942_film%29">To Be or Not to Be (1942 film)</a>]
 

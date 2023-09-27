@@ -27,7 +27,7 @@ maximalism and convert Hollywood and the film industry at large to the open/free
 We may not succeed, but at least we're going to try.
 
 This screenplay <b>is not</b> written in the Hollywood blessed format because
-<a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/hacking-heroism.xhtml">good
+<a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#hacking-heroism">good
 hackers (= resourceful and rule bending heroes)</a>
 which include the talented actors and actresses in this film can
 withstand reading a raw and non-CSS-styled XHTML5 file. That - and hackers like
