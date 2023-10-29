@@ -157,7 +157,9 @@ A tagline appears on the screen as a mock commercial:
 
 “<b>PersonalQrossBow's 2-in-1 Pocketbow kit. Why not have both?</b>”
 
-( <a href="https://www.buzzfeed.com/alexlee/porque-no-los-dos">see this</a>.)
+( <a href="https://www.buzzfeed.com/alexlee/porque-no-los-dos">See this</a>
+for the “Porque no los dos?” / “Why not have both?” meme from the
+taco commercial. )
 
 ]
 
