@@ -114,6 +114,20 @@ Padmé: [softly, and mostly to herself] Why does this shit keep happening to me?
 
 </s>
 
+<s id="Emma-Watson-campaigning" title="Campaigning">
+
+[
+
+Showing Emma Watson’s Twitter page.
+
+]
+
+Padmé: Emma has been posting many repetitive posts for “Madame Y Not”’s campaign, which has attracted quite a few social media trolls, and made many people un-follow her.
+
++++: Given it is a very irrational course of action, we should get her health diagnosis.
+
+</s>
+
 <s id="Emma-Watson-health-diagnosis" title="Emma Watson's Health Diagnosis">
 
 [
