@@ -20,7 +20,7 @@ This screenplay <b>is not</b> written in the Hollywood blessed format because
 hackers (= resourceful and rule bending heroes)</a>
 who include the talented actors and actresses in this film, can
 withstand reading a raw and non-CSS-styled XHTML5 file. That - and hackers like me
-do not have the time to massage a screenplay into Hollywood's whimsical
+do not have the time to massage a screenplay into Hollywood’s whimsical
 format only to be rejected, rinse and repeat.
 
 ]
@@ -61,9 +61,9 @@ A male cat is lying above the keyboard.
 Padmé: [in an E-mail] Anakin, to be frank, I am tired of you being so
 occupied with finishing that wretched Jedi school, that you seem oblivious
 to <a href="https://www.shlomifish.org/philosophy/computers/open-source/gpl-bsd-and-suckerism/">yourself and everybody else</a> in a truly self-harming way.
-Were you aware of <a href="https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html">the attempt to assassinate me</a>? Or the <a href="https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Take-It-Over.html">Naboo's crown's takeover attempt</a>?
+Were you aware of <a href="https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html">the attempt to assassinate me</a>? Or the <a href="https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Take-It-Over.html">Naboo’s crown’s takeover attempt</a>?
 
-+++: They did suggest that <a href="https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/padmes-frustrations-with-her-love-life.xhtml">I give you an ultimatum</a>, so here it is: either you give me enough attention or we'll part ways. I may record a heartache song or two ( <a href="https://www.youtube.com/channel/UCR-ENZ64WL1vB8KU4YzdmTQ">Tiffany</a> published her share of them so it won't surprise too many ), but I'll survive.
++++: They did suggest that <a href="https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors-indiv-nodes/padmes-frustrations-with-her-love-life.xhtml">I give you an ultimatum</a>, so here it is: either you give me enough attention or we’ll part ways. I may record a heartache song or two ( <a href="https://www.youtube.com/channel/UCR-ENZ64WL1vB8KU4YzdmTQ">Tiffany</a> published her share of them so it won’t surprise too many ), but I’ll survive.
 
 [ Padmé pauses. ]
 
@@ -81,18 +81,18 @@ Padmé: no!!.. Bad kitty!
 
 [ She sends a short apology email saying "Sorry, Ani! I sent the last message by accident. Cat…". She receives a reply. ]
 
-Anakin: To quote <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/fear-is-path-to-dark-side.xhtml">Master Oogway: "There are no accidents"</a>. I'm going to file an email of resignation. And that cat can trademark "ghhfnnneu" and sell it to <a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon">Pokémon</a> for mucho dinnaros.
+Anakin: To quote <a href="https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/indiv-nodes/fear-is-path-to-dark-side.xhtml">Master Oogway: "There are no accidents"</a>. I’m going to file an email of resignation. And that cat can trademark "ghhfnnneu" and sell it to <a href="https://en.wikipedia.org/wiki/Pok%C3%A9mon">Pokémon</a> for mucho dinnaros.
 
-+++: Anyway, if dating a jedi knight was a kink of yours, then I don't mind
++++: Anyway, if dating a jedi knight was a kink of yours, then I don’t mind
 us parting ways as a couple.
 
-Padmé: Anakin: I have my share of kinks, but I wouldn't mind dating a plain Anakin Skywalker. I'm going to ask <a href="https://stexpanded.fandom.com/wiki/Katie_Jacobson">Katie</a> [= the name of a Q capable of teleportation.] to teleport you here.
+Padmé: Anakin: I have my share of kinks, but I wouldn’t mind dating a plain Anakin Skywalker. I’m going to ask <a href="https://stexpanded.fandom.com/wiki/Katie_Jacobson">Katie</a> [= the name of a Q capable of teleportation.] to teleport you here.
 
 [ She opens a videochat to Katie. ]
 
 Padmé: Hey Katie! Can you bring my boyfriend, Anakin, here in about 10 minutes? He has quit Jedi school.
 
-Katie: Hey Padmé! Sure, I'll get to it.
+Katie: Hey Padmé! Sure, I’ll get to it.
 
 [ Cut.
 
@@ -129,7 +129,7 @@ more important than graduating from that cursed jedi school.
 
 +++: So for now here is my lightsaber [hands it to Vader].
 
-Vader: Keep it! It's yours. Anakin, having read that exchange and having forwarded
+Vader: Keep it! It’s yours. Anakin, having read that exchange and having forwarded
 it to my jedi colleagues, both Master Yoda, and <a href="https://starwars.fandom.com/wiki/Darth_Sidious">Emperor Palpatine</a> have approved of you being graduated. The Jedi council has also voted unanimously for that.
 
 +++: All of that is more than enough for you to receive your jedi qualification.
@@ -146,7 +146,7 @@ The fourth sith, in fact.
 
 <s id="yoda-as-a-closet-Sith" title="Yoda as a closet sith">
 
-Anakin: I'm the fourth sith? Who is the third, then?
+Anakin: I’m the fourth sith? Who is the third, then?
 
 [ Yoda appears on screen. ]
 
@@ -200,7 +200,7 @@ Yoda is seen chuckling, and the two other Siths (Vader and Emperor Palpatine) jo
 
 <s id="funny-can-be-sexy" title="Funny can be sexy">
 
-[ Padmé and Anakin returned from their date, and are walking towards Padmé's
+[ Padmé and Anakin returned from their date, and are walking towards Padmé’s
 room.  ]
 
 Anakin: heh, we got a lot of cash today…
@@ -234,7 +234,7 @@ Cut. ]
 
 Caption: "Later that night"
 
-Padmé and Anakin are in Padmé's bedroom.
+Padmé and Anakin are in Padmé’s bedroom.
 
 ]
 
@@ -254,7 +254,7 @@ Padmé: Tweet? I’ll buy a <a href="https://en.wikipedia.org/wiki/Super_Bowl">S
 
 Anakin: Well, knowing you and your spirit frenemies, it likely will be common knowledge soon anyhow.
 
-+++: Anyway, I'm gonna move to the other room so we won't distract one another too much.
++++: Anyway, I’m gonna move to the other room so we won’t distract one another too much.
 
 [ Before Anakin closes the door. ]
 
@@ -297,7 +297,7 @@ Padmé: Whoa [scared…]
 
 Twilight Sparkle: Good morning your majesty, rise and shine.
 
-+++: We're helping you with your research.
++++: We’re helping you with your research.
 
 Padmé: whoa… how?
 
@@ -420,7 +420,7 @@ Vader: Yes, <a href="https://www.shlomifish.org/humour/bits/facts/Emma-Watson/">
 
 Padmé: cool beans.
 
-+++: anyhow, after we will have this episode filmed, everybody will be the sixth sith. Or maybe the fifth sith, or the first sith. One’s sith number doesn't matter as much as short-term quarterly gains.
++++: anyhow, after we will have this episode filmed, everybody will be the sixth sith. Or maybe the fifth sith, or the first sith. One’s sith number doesn’t matter as much as short-term quarterly gains.
 
 +++: Moreover, I will no longer care too much about the fact that my positive bank balance gets higher. After all, <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=smg-about-giving-back-money-and-time">as the rich are getting richer, the poor are getting richer too</a>. I also am going to stop <a href="http://shlomifishswiki.branchable.com/Never_Try_to_Please_Everyone/">trying to please everyone</a>, both online and offline.
 
@@ -428,7 +428,7 @@ Padmé: cool beans.
 
 Padmé: However… note that this whole sleigh-ride has vexed me, so I’m planning to take vengence.
 
-[ Padmé's eyes become ebbing dark, and the four Spirit friends (= Twilight Sparkle, Starlight Glimmer, Rainbow Dash, and Discord), appear by Padmé's sides. Discord snaps his fingers, and intimidating guns not <a href="https://www.youtube.com/watch?v=NEG-jSXbMcY">unlike the ones in the film <i>The Mask</i></a>, materialise in the hands of the Spirit friends. ]
+[ Padmé’s eyes become ebbing dark, and the four Spirit friends (= Twilight Sparkle, Starlight Glimmer, Rainbow Dash, and Discord), appear by Padmé’s sides. Discord snaps his fingers, and intimidating guns not <a href="https://www.youtube.com/watch?v=NEG-jSXbMcY">unlike the ones in the film <i>The Mask</i></a>, materialise in the hands of the Spirit friends. ]
 
 Padmé: ask yourself, do you feel lucky?
 
