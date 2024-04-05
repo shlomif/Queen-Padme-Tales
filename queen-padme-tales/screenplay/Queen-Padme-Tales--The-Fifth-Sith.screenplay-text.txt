@@ -59,7 +59,7 @@ A male cat is lying above the keyboard.
 ]
 
 Padmé: [in an E-mail] Anakin, to be frank, I am tired of you being so
-occupied with finishing that wretched Jedi school, that you seem oblivious
+occupied with finishing that wretched jedi school, that you seem oblivious
 to <a href="https://www.shlomifish.org/philosophy/computers/open-source/gpl-bsd-and-suckerism/">yourself and everybody else</a> in a truly self-harming way.
 Were you aware of <a href="https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Queen-Amidala-vs-the-Klingon-Warriors.html">the attempt to assassinate me</a>? Or the <a href="https://www.shlomifish.org/humour/Queen-Padme-Tales/Queen-Padme-Tales--Take-It-Over.html">Naboo’s crown’s takeover attempt</a>?
 
@@ -90,7 +90,7 @@ Padmé: Anakin: I have my share of kinks, but I wouldn’t mind dating a plain A
 
 [ She opens a videochat to Katie. ]
 
-Padmé: Hey Katie! Can you bring my boyfriend, Anakin, here in about 10 minutes? He has quit Jedi school.
+Padmé: Hey Katie! Can you bring my boyfriend, Anakin, here in about 10 minutes? He has quit jedi school.
 
 Katie: Hey Padmé! Sure, I’ll get to it.
 
@@ -112,7 +112,7 @@ Katie: ow.
 
 <s id="anakin-becoming-a-Sith" title="Anakin becoming a sith">
 
-<s id="anakin-the-jedi" title="Anakin the Jedi">
+<s id="anakin-the-jedi" title="Anakin the jedi">
 
 [
 
@@ -130,7 +130,7 @@ more important than graduating from that cursed jedi school.
 +++: So for now here is my lightsaber [hands it to Vader].
 
 Vader: Keep it! It’s yours. Anakin, having read that exchange and having forwarded
-it to my jedi colleagues, both Master Yoda, and <a href="https://starwars.fandom.com/wiki/Darth_Sidious">Emperor Palpatine</a> have approved of you being graduated. The Jedi council has also voted unanimously for that.
+it to my jedi colleagues, both Master Yoda, and <a href="https://starwars.fandom.com/wiki/Darth_Sidious">Emperor Palpatine</a> have approved of you being graduated. The Jedi Council has also voted unanimously for that.
 
 +++: All of that is more than enough for you to receive your jedi qualification.
 
@@ -246,7 +246,7 @@ Padmé: in practice? <a href="https://www.firsttoeleven.com/">First to eleven</a
 
 Anakin: yes, you were great too.
 
-Padmé: Well, you know the old Internet meme: “Jedi in the streets; sith in the sheets.”
+Padmé: Well, you know the old Internet meme: “jedi in the streets; sith in the sheets.”
 
 Anakin: Yeah. Are you going to tweet about it?
 
