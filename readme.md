@@ -26,7 +26,7 @@ effect until Padme\'s coming of age. As a result, Padmé had a happy
 childhood until she turned 18 at 2010 and was ready to become the bona
 fide monarch of Naboo.
 
-Padme already learned enough about managing a planet country by
+Padme already learned a lot about managing a planet country by
 volunteering to help Vader, and he encouraged her to do so. On the
 surface, she is happy:
 
@@ -37,8 +37,8 @@ surface, she is happy:
     sharing sites.
 
 -   She has many supporting friends, including her boyfriend Anakin
-    Skywalker ( [Jake Coco](https://www.youtube.com/jakecoco/about) ) a
-    promising Jedi-wannabe who is about her age, with aspirations for
+    Skywalker ( [Jake Coco](https://www.youtube.com/jakecoco/about) ), a
+    promising jedi-wannabe who is about her age, with aspirations for
     joining the mysterious but revered jedi order of Siths, of which
     only Vader and [Emperor
     Palpatine](https://starwars.fandom.com/wiki/Darth_Sidious) are the
@@ -50,8 +50,9 @@ Damocles](https://en.wikipedia.org/wiki/Damocles) :
 -   Critics on online publications and social media who are unhappy with
     every choice she makes.
 
--   A poorly executed takeover attempt by a \"real life\" celebrity (
-    [Emma Watson](../bits/facts/Emma-Watson/) ) thought to be flawless.
+-   A poorly executed takeover attempt by a “real life” celebrity (
+    [Emma Watson](https://www.shlomifish.org/humour/bits/facts/Emma-Watson/) )
+    thought to be flawless.
 
 -   Her boyfriend being so busy with his studies that he becomes awfully
     laconic even in his emails.
@@ -59,11 +60,11 @@ Damocles](https://en.wikipedia.org/wiki/Damocles) :
 -   Her spirit friends, who are animated characters from [*My Little
     Pony: Friendship Is
     Magic*](https://mlp.fandom.com/wiki/My_Little_Pony_Friendship_is_Magic_Wiki)
-    and other franchises, who appear at the seemingly least desirable
-    moments, and whom everyone can see, hear, photograph, and record,
+    and other fantastical universes, who appear at the seemingly least
+    desirable moments, and whom everyone can see, hear, photograph, and record,
     but whom many people believe are some kind of trick.
 
--   And her biggest pet peeve: her bank balance which keeps getting
+-   And her biggest pet peeve: her positive bank balance which keeps getting
     larger, despite her many attempts to reduce it.
 
 # Queen Amidala vs. the Klingon Warriors (David and Goliath modernisation)
@@ -93,16 +94,17 @@ A tagline appears on the screen as a mock commercial:
 
 ### Note:
 
-PersonalQrossBow is not a real firm as far as we know, and while being a fan of some tacos, I
-have not tried the ones in the original commercial, nor did I receive money from
-Old El Paso. Nevertheless, I respect and admire their good marketing,
-and believe that marketing has been unnecessarily demonised, as it is essential for the success of
-your "product" (for lack of a better word) or digital work. Hearing about the meme has
-proven a catalyst for writing this story.
+PersonalQrossBow is not a real firm as far as we know, and while being a fan of
+some tacos, I have not tried the ones in the original commercial, nor did I
+receive money from Old El Paso. Nevertheless, I respect and admire their good
+marketing, and believe that marketing has been unnecessarily demonised, as it
+is essential for the success of your "product" (for lack of a better word) or
+digital work. Hearing about the meme has proven a catalyst for writing this
+story.
 
-In addition, I hereby request [Old El Paso](https://www.oldelpaso.com/) to not sue me,
-and if they wish to compensate me for the free publicity, to donate instead to any
-one or more of the following organisations:
+In addition, I hereby request [Old El Paso](https://www.oldelpaso.com/) to not
+sue me, and if they wish to compensate me for the free publicity, to donate
+instead to any one or more of the following organisations:
 
 1. [Organization for Transformative Works](https://www.transformativeworks.org/)
 2. [Creative Commons](https://creativecommons.org/)
@@ -129,8 +131,10 @@ The original sources can be found on a [GitHub git repository](https://github.co
 
 ## Dedication
 
-This story is dedicated to the memory of [Christina Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie) (1994-2016),
-a remarkable singer and youtuber, who was killed at age 22 by a fan who was obsessed with her, who almost immediately committed suicide himself.
+This story is dedicated to the memory of [Christina
+Grimmie](https://en.wikipedia.org/wiki/Christina_Grimmie) (1994-2016), a
+remarkable singer and youtuber, who was killed at age 22 by a fan who was
+obsessed with her, who almost immediately committed suicide himself.
 
 ## Reflections
 
@@ -153,24 +157,25 @@ but he was amused. If you want to be even angrier, see [this image macro](https:
 
 ----
 
-The ironic thing about the story is that any of the expendable jedis could
-have thrown his lightsaber like a spear at his respective klingon's necks. I'm planning
-to use this fact at a self-rebuttal in which Amidala handles the situation
-using [Saladin-style](http://shlomifishswiki.branchable.com/Saladin_Style/)
+The ironic thing about the story is that any of the expendable jedis could have
+thrown his lightsaber like a spear at his respective klingon's necks. I'm
+planning to use this fact at a self-rebuttal in which Amidala handles the
+situation using
+[Saladin-style](http://shlomifishswiki.branchable.com/Saladin_Style/)
 benevolent psychological warfare without any bloodshed.
 
 ----
 
 I decided to use crossbows instead of [Star Wars' laser
 blasters](https://starwars.fandom.com/wiki/Blaster/Legends) for the ranged
-weapons for the extra "back-to-basics" effect. An online friend agreed that it
+weapons for the extra “back-to-basics” effect. An online friend agreed that it
 is a good idea, but your kilometrage may vary.
 
 ----
 
 This is likely not going to be the final word in the missile-vs-melee theme. You
 can read my interpretation of the significance of the original tale in
-[a section of an essay](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/DocBook5/putting-all-cards-on-the-table-2013/david_and_goliath.xhtml).
+[a section of an essay titled “David vs. Goliath”](https://www.shlomifish.org/philosophy/philosophy/putting-all-cards-on-the-table-2013/#david_and_goliath).
 
 Now that I have the foreknowledge, reading [the original tale](https://www.sacred-texts.com/bib/tan/sa1017.htm)
 courtesy of [sacred-texts.com](https://www.sacred-texts.com/bib/tan/sa1017.htm) (in
@@ -181,9 +186,11 @@ the original Biblical Hebrew) makes it read better.
 If you believe I should not have used elements from 3rd party franchises,
 or that I should have only used elements from the [Jewish "Torah"](https://en.wikipedia.org/wiki/Torah)
 , I advise you to read and follow the links from my
-["make your own kind of music"](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/putting-cards-on-the-table-2019-2020/make-your-own-kind-of-music.xhtml)
-mini essay. That put aside, if you think you can make better music, either
-based on mine or not, then go for it.
+[“make your own kind of music” mini
+essay](https://www.shlomifish.org/philosophy/philosophy/putting-cards-on-the-table-2019-2020/#make-your-own-kind-of-music).
+
+That put aside, if you think you can make better, or at least different, music,
+either based on mine or not, then go for it.
 
 ----
 
