@@ -20,14 +20,14 @@ my $obj = Shlomif::Screenplays::EPUB->new(
 $obj->run;
 
 {
-    my $epub_basename = 'So-Who-the-Hell-is-Qoheleth';
+    my $epub_basename = 'Queen-Padme-Tales';
     $obj->epub_basename($epub_basename);
 
     $obj->output_json(
         {
             data => {
                 filename => $epub_basename,
-                title    => q{“So, Who the Hell is Qoheleth?”},
+                title    => q{Queen Padmé Tales},
                 authors  => [
                     {
                         name => "Shlomi Fish",
@@ -41,15 +41,14 @@ $obj->run;
                     },
                 ],
                 cover  => "images/$gfx",
-                rights =>
-"Creative Commons Attribution Noncommercial ShareAlike Unported (CC-by-nc-sa-3.0)",
+                rights => "Creative Commons Attribution Unported (CC-by-4.0)",
                 publisher  => 'http://www.shlomifish.org/',
                 language   => 'en-GB',
                 subjects   => [ 'FICTION/Humorous', 'Judaism', 'Bible', ],
                 identifier => {
                     scheme => 'URL',
                     value  =>
-'http://localhost/shlomif/homepage-local/humour/So-Who-The-Hell-Is-Qoheleth/',
+                        'https://www.shlomifish.org/humour/Queen-Padme-Tales/',
                 },
             },
         },
