@@ -82,8 +82,8 @@ past failures, opinions that they disagree with, your non-normative behaviour,
 your qualities (age, gender, country, city, ethnicity, religion, ideology,
 beliefs, wealth, image, personality, cultural tastes, etc.) and your works.
 
-You will likely "fail" to become the "next biggest thing", but even if you
-do, you can at least fail "in style" and inspire or help even just <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=mishnah--saving-one-soul">one person</a>.
+You will likely "fail" to become the "next biggest thing". Hoever, even if you
+do fail, you can at least fail "in style", and inspire or help even just <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=mishnah--saving-one-soul">one person</a>.
 
 Always remember: you are awesome. You can become more awesome, regardless
 of any "IQ" myths. But you may one day <a href="https://www.shlomifish.org/humour/Summerschool-at-the-NSA/ongoing-text.html#summer_glau_presents__the_talk__amateur_fighters">"lose"</a> to someone less qualified than you.
@@ -183,7 +183,7 @@ Star Wars prequel trilogy</a>) enters the frame, and does the same.
 
 Natalie: [to Tiffany] I knew you had it in you. [They hug].
 
-Wayne's voice from a different frame: Dude! This sucks.
+Wayne's voice from a different frame: Dude, this sucks!
 
 [ Split frame with Wayne and Garth (from
 <a href="https://en.wikipedia.org/wiki/Wayne%27s_World_(film)"><i>Wayne’s World</i></a>)
@@ -191,7 +191,7 @@ sitting in an untidy room next to a computer screen.
 They are the plot programmers. ]
 
 Wayne: …I left you alone asking you to write a draft for a feature about
-ethical hacking for PBS, and you come up with this??
+ethical hacking for PBS, and you come up with this??!
 
 Garth: What's wrong with it?
 
@@ -200,7 +200,7 @@ crossover and "girl power" and stuff. Every 2nd-class fan fic writer could
 have written it in three days!
 
 Garth: Took me less than an hour, after lunch, before playing
-<a href="https://en.wikipedia.org/wiki/Dwarf_Fortress">Dwarf Fortress</a>…
+<a href="https://en.wikipedia.org/wiki/Dwarf_Fortress"><i>Dwarf Fortress</i></a>…
 
 Wayne: <a href="https://www.youtube.com/watch?v=lQALLGsn-Fk">Beginners' luck</a>,
 I guess.
@@ -253,7 +253,7 @@ Garth: ah… didn't think about it.
 
 Wayne: we can use that to our advantage. Let me tell you, plot programming
 could use some <a href="https://mlp.fandom.com/wiki/Applejack%27s_%22Day%22_Off">code review</a>
-too. You could have requested this on Internet forums before you started playing Dwarf Fortress.
+too. You could have requested this on Internet forums before you started playing <i>Dwarf Fortress</i>.
 
 Garth: dude, you're right!
 
@@ -386,7 +386,7 @@ kill us now, and if you wish, torture us beforehand.
 
 [ Worf and Gowron close their eyes. Padmé sighs.]
 
-Padmé: OK… let's suppose for the sake of argumentation that my jedi knights
+Padmé: OK… let's suppose - for the sake of argumentation - that my jedi knights
 and I have killed you (or <a href="https://www.shlomifish.org/humour/Selina-Mandrake/">slain</a>
 you), that you have died (or admitted you were wrong), and were reborn.
 Will this be acceptable?
@@ -405,6 +405,8 @@ the ceremonial female royal in the jedi tournament instead
 of me.
 
 Vader: sure thing, Padpad! May the force be with you.
+
+[ They end the video-chat. ]
 
 Padmé: [to Worf and Gowron] OK, you seem to be noble and think highly
 of me now. What prompted you to attempt to assassinate me?
@@ -489,7 +491,7 @@ or similar</a>, escorted by her jedi-knight-acting bodyguard.
 
 ]
 
-Padmé: [to the bodyguard] Thanks! good luck in the tournament. [He waves and
+Padmé: [to the bodyguard] Thanks! Good luck in the tournament. [He waves and
 Padmé waves back.]
 
 [ He walks away. Padmé sits down. ]
@@ -713,7 +715,7 @@ Padmé: sure, even my grandparents, the king of Naboo, and his wife (who is a Je
 
 Gowron: Well, Worf and I are still figuring out the rules… <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/indiv-nodes/guidelines_as_dogma.xhtml">the guidelines</a>! … as we run into them, heh.
 
-+++: But here is some advice: try to <a href="https://twitter.com/shlomif/status/1394277859561283586">know (= be educated/entertained)</a> your opponent. Before the fight, we invite them for a drink and talk about stuff we both like: video shows, comics, films, literature, software dev (a bottomless pit, I admit), Internet memes, songs, etc. We want to get them to like us and vice versa, and develop a general fuzzy model of their personality.
++++: But here is some advice: try to <a href="https://twitter.com/shlomif/status/1394277859561283586">know (= be educated/entertained)</a> your opponent. Before the fight, we invite them for a drink and talk about stuff we both like: video shows, comics, films, literature, software development (a bottomless pit, I admit), Internet memes, songs, etc. We want to get them to like us and vice versa, and develop a general fuzzy model of their personality.
 
 +++: Muhammad Ali, who was a great warrior in his day, reportedly said <a href="http://www.quotationspage.com/quote/413.html">“My toughest fight was with my first wife.”</a>, and we suspect it was because he ended up taking her too much for granted.
 

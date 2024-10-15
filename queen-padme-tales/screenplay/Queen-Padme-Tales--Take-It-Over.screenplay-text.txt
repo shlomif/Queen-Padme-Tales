@@ -47,7 +47,7 @@ made available under the <a href="http://creativecommons.org/licenses/by/4.0/">C
 
 The <b>Dedication</b>:
 
-TODO: FILL IN.
+To my watchers, including (I think) Emma Watson, and Melissa Joan Hart ( <a href="https://www.shlomifish.org/philosophy/culture/multiverse-cosmology/#shlomif-watchers-and-whichers">Reference</a> ) who have tolerated my mismanagement as a false prophet. God turned out to be much smarter than I believed.
 
 ]
 
@@ -103,8 +103,8 @@ Padmé: Sounds fishy.
 
 [ Cut to the office of Daniel, Padmé's cousin and legal advisor. ]
 
-Daniel: I'm afraid to say that running a mystery woman who claims
-to be a citizen of Naboo is possible under the current bylaws.
+Daniel: I'm afraid to say that running a mystery woman, who claims
+to be a citizen of Naboo, is possible under the current bylaws.
 This is one case where I wish the law will be amended, even though
 Padmé and I are passionate about trimming Naboo's bylaws from
 <a href="https://www.shlomifish.org/philosophy/culture/case-for-commercial-fan-fiction/#guidelines_as_dogma">superfluous regulations</a>.
@@ -156,17 +156,17 @@ Padmé: can we use technology to remove it?
 
 George the Cat: Unfortunately, it is beyond the reach of even the Q Continuum. (Plot device!)
 
-+++: However, I suggest you consult with <a href="https://buffy.fandom.com/wiki/Enyos">Enyos of the Kalderash</a> from the Beckyverse. He may have some insights about psychological exorcism.
++++: However, I suggest you consult <a href="https://buffy.fandom.com/wiki/Enyos">Enyos of the Kalderash</a> from the Beckyverse. He may have some insights about psychological exorcism.
 
 </s>
 
 <s id="talk-with-Enyos-about-helping-Emma-Watson" title="Talk with Enyos">
 
 [ Padmé's computer says "Initiating Selinaverse⬄Beckyverse bridge"
-and after a while shows Enyos' face wearing a <a href="https://en.wikipedia.org/wiki/Straw_hat">straw hat</a> and
+and after a while shows Enyos' face wearing a <a href="https://en.wikipedia.org/wiki/Straw_hat">straw hat</a>, and
 a smaller live recording of Emma Watson of the Beckyverse.]
 
-Padmé: hey Enyos and Emma! Thanks for agreeing to talk with me on such
+Padmé: hey, Enyos and Emma! Thanks for agreeing to talk with me on such
 a short notice.
 
 Enyos: No problem, your majesty.
@@ -260,6 +260,16 @@ your online/offline presence more than it harmed Naboo, but it did uncover some
 loopholes in the Naboo policies.
 
 Emma Watson: yeah! <a href="https://en.wikipedia.org/wiki/Samson">The sweet emerged from the mighty</a>.
+
+Padmé: okay, done. Given you are still in Naboo, is there anything you'd like to do?
+
+Emma Watson: oh, I don't know. Maybe we can go to a convention: sci-fi/fantasy, software development, web-publishing.
+
+Emma Watson: we can hit on a couple of men, hit those men, make out with these
+men, make love to these men, make love to each other, whatever floats our boats
+[ <a href="https://www.shlomifish.org/humour/fortunes/show.cgi?id=shlomif-how-chun-li-vs-tifa-should-end">Reference</a>. ]
+
+[ Padmé laughs, as Emma and she leave the frame. ]
 
 </s>
 
