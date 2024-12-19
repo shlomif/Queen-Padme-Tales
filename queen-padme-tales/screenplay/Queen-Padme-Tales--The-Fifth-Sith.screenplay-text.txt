@@ -129,8 +129,12 @@ more important than graduating from that cursed jedi school.
 
 +++: So for now here is my lightsaber [hands it to Vader].
 
-Vader: Keep it! It’s yours. Anakin, having read that exchange and having forwarded
-it to my jedi colleagues, both Master Yoda, and <a href="https://starwars.fandom.com/wiki/Darth_Sidious">Emperor Palpatine</a> have approved of you being graduated. The Jedi Council has also voted unanimously for that.
+Vader: Keep it! It’s yours. Anakin, having read that exchange, reviewed your
+scholastic record, and forwarded them to my jedi colleagues, both Master Yoda,
+and
+<a href="https://starwars.fandom.com/wiki/Darth_Sidious">Emperor Palpatine</a>
+have approved of you being graduated. The Jedi Council has also voted
+unanimously for that.
 
 +++: All of that is more than enough for you to receive your jedi qualification.
 
@@ -158,7 +162,7 @@ have I. “Master Darth Yoda” call me you can. Or just plain “Yoda”.” ]
 
 Anakin: way cool! But shouldn’t Darth Yoda be the first Sith then?
 
-Yoda: Sith number matters not, <a href="https://memory-alpha.fandom.com/wiki/Little_Green_Men_(episode)">as much as short-term quarterly gains.</a>
+Yoda: Matters not, sith number , <a href="https://memory-alpha.fandom.com/wiki/Little_Green_Men_(episode)">as much as short-term quarterly gains.</a>
 
 Vader: Do note, however, that there are now <b>five</b> Siths.
 
@@ -201,7 +205,7 @@ Yoda is seen chuckling, and the two other Siths (Vader and Emperor Palpatine) jo
 <s id="funny-can-be-sexy" title="Funny can be sexy">
 
 [ Padmé and Anakin returned from their date, and are walking towards Padmé’s
-room.  ]
+room. ]
 
 Anakin: heh, we got a lot of cash today…
 
@@ -254,7 +258,8 @@ Padmé: Tweet? I’ll buy a <a href="https://en.wikipedia.org/wiki/Super_Bowl">S
 
 Anakin: Well, knowing you and your spirit frenemies, it likely will be common knowledge soon anyhow.
 
-+++: Anyway, I’m gonna move to the other room so we won’t distract one another too much.
++++: Anyway, I’m going to move to the other room so we won’t distract one
+another too much.
 
 [ Before Anakin closes the door. ]
 
@@ -369,7 +374,7 @@ Q: sure! [ he snaps his fingers causing a desk with a computer to materialise.] 
 
 <b>TODO:</b> add live excerpts from the talk by <a href="https://buffyfanfiction.fandom.com/wiki/Q_(Selinaverse)">Q of the Selinaverse</a>
 and his spiritual cousin Discord (who was forked from the one at the
-end of the mlpfim 7th season).
+end of the My Little Pony: Friendship is Magic’s 7th season).
 
 ]
 
